@@ -13,13 +13,26 @@ bangladesh-law/
 ├── constitution/        # Constitution of Bangladesh & amendments
 ├── codes/               # Major codes (Penal Code, CrPC, CPC, Evidence Act)
 ├── acts/                # Acts organized by category
-│   ├── labour/          # Labour Act & rules
+│   ├── labour/          # Labour Act & rules (incl. section-wise notes)
 │   ├── family/          # Marriage, divorce, family laws
 │   ├── cyber/           # ICT / Cyber security laws
 │   ├── land/            # Land & property laws
 │   └── women-children/  # Women & children protection laws
+├── judgments/           # Landmark Supreme Court decisions
 └── resources/           # Official sources, courts, research links
 ```
+
+## 📖 Detailed notes / বিস্তারিত নোট
+
+| Document | Description |
+|----------|-------------|
+| [Penal Code, 1860](codes/penal-code-1860.md) | ধারাভিত্তিক নোট — murder, theft, cheating, defamation |
+| [CrPC, 1898](codes/crpc-1898.md) | FIR থেকে আপিল — arrest, remand, bail, s. 561A |
+| [CPC, 1908](codes/cpc-1908.md) | মামলা দায়ের থেকে ডিক্রি জারী — injunction, appeal |
+| [Evidence Act, 1872](codes/evidence-act-1872.md) | সাক্ষ্যের নিয়ম — confession, dying declaration, জেরা |
+| [Labour Act, 2006](acts/labour/labour-act-2006.md) | নিয়োগপত্র, ছুটি, ওভারটাইম, শ্রম আদালত |
+| [Fundamental Rights](constitution/fundamental-rights.md) | Article 26–47A — মৌলিক অধিকারের ম্যাপ |
+| [Landmark Judgments](judgments/README.md) | 8th/5th/7th/16th Amendment cases, PIL, Masdar Hossain |
 
 ## 📜 Official Source / সরকারি উৎস
 
