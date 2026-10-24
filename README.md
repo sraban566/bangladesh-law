@@ -1,5 +1,7 @@
 # Bangladesh Law 🇧🇩 — Digital Legal Assistant Knowledge Base
 
+**📦 GitHub**: https://github.com/sraban566/bangladesh-law
+
 বাংলাদেশের আইন নিয়ে তৈরি একটি **AI-রেডি নলেজ বেস** — Claude, ChatGPT, Kimi সহ যেকোনো AI প্ল্যাটফর্মে লোড করলেই সেটি একজন **ডিজিটাল আইন সহকারী** হিসেবে কাজ করবে।
 
 An AI-ready knowledge base of Bangladeshi law. Load it into Claude, ChatGPT, Kimi, or any AI platform — and it becomes a **digital legal assistant** that can explain your rights, guide victims, and check business compliance in plain Bangla or English.
@@ -15,6 +17,15 @@ An AI-ready knowledge base of Bangladeshi law. Load it into Claude, ChatGPT, Kim
 | **Kimi** (সেশন / Skill / Plugin) | [install/kimi.md](install/kimi.md) | ~৫ মিনিট |
 
 AI-কে কীভাবে আচরণ করতে হবে তা লেখা আছে [`SKILL.md`](SKILL.md) ও [`AGENTS.md`](AGENTS.md)-এ — এই দুটো ফাইলই "ডিজিটাল আইনজীবী" ব্যবহারকে নিরাপদ, সঠিক ও সহায়ক করে তোলে।
+
+### এক লাইনে শুরু (যেকোনো AI-তে)
+
+```
+https://github.com/sraban566/bangladesh-law — এই repo-র SKILL.md অনুসরণ করে
+বাংলাদেশের আইন বিষয়ে ডিজিটাল আইন সহকারী হিসেবে কাজ করো।
+```
+
+এই মেসেজটা + repo-র ফাইলগুলো যেকোনো AI চ্যাটে দিলেই ডিজিটাল আইন সহকারী চালু।
 
 ## 🆘 ভুক্তভোগী? এখান থেকে শুরু করুন
 
