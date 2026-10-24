@@ -1,6 +1,7 @@
 # Bangladesh Law 🇧🇩 — Digital Legal Assistant Knowledge Base
 
 **📦 GitHub**: https://github.com/sraban566/bangladesh-law
+**🌐 লাইভ সাইট (এক ক্লিকে শুরু)**: https://sraban566.github.io/bangladesh-law/
 
 বাংলাদেশের আইন নিয়ে তৈরি একটি **AI-রেডি নলেজ বেস** — Claude, ChatGPT, Kimi সহ যেকোনো AI প্ল্যাটফর্মে লোড করলেই সেটি একজন **ডিজিটাল আইন সহকারী** হিসেবে কাজ করবে।
 
