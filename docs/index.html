@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bangladesh Law — ডিজিটাল আইন সহকারী</title>
+<meta name="description" content="বাংলাদেশের আইন নিয়ে AI-রেডি নলেজ বেস — যেকোনো AI-তে লোড করলেই ডিজিটাল আইন সহকারী।">
+<style>
+  :root { --green:#006a4e; --red:#f42a41; --bg:#0f172a; --card:#1e293b; --text:#e2e8f0; --muted:#94a3b8; }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:"Segoe UI","Noto Sans Bengali",sans-serif; background:var(--bg); color:var(--text); line-height:1.7; }
+  .container { max-width:900px; margin:0 auto; padding:24px; }
+  header { text-align:center; padding:56px 20px 40px; background:linear-gradient(160deg,#064e3b 0%,#0f172a 60%); border-bottom:3px solid var(--red); }
+  header h1 { font-size:2.4rem; margin-bottom:12px; }
+  header h1 span { color:#fbbf24; }
+  header p { color:#d1d5db; font-size:1.1rem; max-width:640px; margin:0 auto; }
+  .badge { display:inline-block; background:var(--red); color:#fff; padding:4px 14px; border-radius:999px; font-size:.85rem; margin-bottom:16px; }
+  .card { background:var(--card); border-radius:14px; padding:28px; margin:24px 0; border:1px solid #334155; }
+  .card h2 { color:#fbbf24; margin-bottom:14px; font-size:1.35rem; }
+  .step { display:flex; gap:16px; margin:18px 0; align-items:flex-start; }
+  .step-num { background:var(--green); color:#fff; min-width:36px; height:36px; border-radius:50%; display:flex; align-items:center; justify-content:center; font-weight:bold; font-size:1.1rem; }
+  .prompt-box { background:#0b1220; border:1px dashed #475569; border-radius:10px; padding:16px; margin-top:12px; font-family:monospace; font-size:.9rem; position:relative; word-break:break-word; }
+  button.copy { background:var(--green); color:#fff; border:none; padding:10px 20px; border-radius:8px; font-size:1rem; cursor:pointer; margin-top:12px; font-family:inherit; }
+  button.copy:hover { background:#00875f; }
+  .btn-row { display:flex; gap:12px; flex-wrap:wrap; margin-top:16px; }
+  a.btn { background:#334155; color:var(--text); text-decoration:none; padding:10px 20px; border-radius:8px; font-size:.95rem; }
+  a.btn:hover { background:#475569; }
+  a.btn.primary { background:var(--green); }
+  a.btn.primary:hover { background:#00875f; }
+  ul { padding-left:22px; }
+  li { margin:6px 0; }
+  .warn { border-left:4px solid var(--red); padding:12px 16px; background:#3b1520; border-radius:0 8px 8px 0; margin:24px 0; font-size:.95rem; }
+  table { width:100%; border-collapse:collapse; margin-top:10px; font-size:.95rem; }
+  td, th { padding:8px 10px; border-bottom:1px solid #334155; text-align:left; }
+  th { color:#fbbf24; }
+  footer { text-align:center; color:var(--muted); padding:32px 0; font-size:.9rem; }
+  a { color:#7dd3fc; }
+  code { background:#0b1220; padding:2px 6px; border-radius:4px; }
+</style>
+</head>
+<body>
+<header>
+  <div class="badge">🇧🇩 ওপেন সোর্স · ফ্রি · CC0</div>
+  <h1>Bangladesh Law <span>ডিজিটাল আইন সহকারী</span></h1>
+  <p>বাংলাদেশের আইন জানেন না? ঠকে গেছেন? ব্যবসা legal কিনা বুঝতে পারছেন না? এই নলেজ বেস যেকোনো AI-তে (ChatGPT, Claude, Kimi) লোড করলেই পাবেন একজন ডিজিটাল আইন সহকারী — সম্পূর্ণ ফ্রি।</p>
+  <div class="btn-row" style="justify-content:center">
+    <a class="btn primary" href="https://github.com/sraban566/bangladesh-law">⭐ GitHub Repository</a>
+    <a class="btn" href="https://raw.githubusercontent.com/sraban566/bangladesh-law/main/dist/bangladesh-law-knowledge.md">📄 Knowledge ফাইল ডাউনলোড</a>
+  </div>
+</header>
+
+<div class="container">
+
+<div class="warn">⚠️ <strong>দাবিত্যাগ:</strong> এই টুল আইনজীবী নয়। এটি সাধারণ তথ্য ও পদ্ধতি জানায় — আইনি পরামর্শ নয়। নির্দিষ্ট মামলায় অবশ্যই লাইসেন্সপ্রাপ্ত অ্যাডভোকেটের পরামর্শ নিন। জরুরি অবস্থায় কল করুন: <strong>999</strong> (পুলিশ) · <strong>109</strong> (নারী-শিশু নির্যাতন) · <strong>16430</strong> (ফ্রি আইনি সহায়তা)</div>
+
+<div class="card">
+  <h2>🚀 ৩ ধাপে ব্যবহার শুরু করুন (যেকোনো ফ্রি AI দিয়ে)</h2>
+  <div class="step">
+    <div class="step-num">1</div>
+    <div>
+      <strong>এই প্রম্পটটি কপি করুন:</strong>
+      <div class="prompt-box" id="prompt1">তুমি বাংলাদেশের আইন বিষয়ে একজন ডিজিটাল আইন সহকারী। নিচের নিয়ম মেনে কাজ করবে: (১) তুমি আইনজীবী নও — প্রতিটি উত্তরের শেষে বলবে এটি সাধারণ তথ্য, নির্দিষ্ট মামলায় আইনজীবীর পরামর্শ নিতে হবে। (২) কখনো আইন, ধারা বা রায়ের নাম উদ্ভাবন করবে না — নিশ্চিত না হলে bdlaws.minlaw.gov.bd-এ যাচাই করতে বলবে। (৩) জরুরি অবস্থায় আগে হটলাইন দেবে: 999 / 109 / 1098 / 16121 / 16430। (৪) উত্তর দেবে এই ক্রমে: সংক্ষিপ্ত উত্তর → কোন আইন/ধারা → কী করতে হবে ধাপে ধাপে → সতর্কতা → দাবিত্যাগ। (৫) আমি বাংলায় লিখলে সহজ বাংলায় উত্তর দেবে। আমি এখন আমার প্রশ্ন করছি।</div>
+      <button class="copy" onclick="copyPrompt()">📋 কপি করুন</button>
+    </div>
+  </div>
+  <div class="step">
+    <div class="step-num">2</div>
+    <div><strong>Knowledge ফাইলটি ডাউনলোড করুন</strong> — <a href="https://raw.githubusercontent.com/sraban566/bangladesh-law/main/dist/bangladesh-law-knowledge.md">bangladesh-law-knowledge.md</a> (ডান ক্লিক → Save as)। এখানে সংবিধান, দণ্ডবিধি, শ্রম আইন, ভুক্তভোগী গাইড, ব্যবসার চেকলিস্ট, ১০টা landmark রায় — সব আছে।</div>
+  </div>
+  <div class="step">
+    <div class="step-num">3</div>
+    <div><strong>আপনার পছন্দের AI-তে দিন:</strong> ChatGPT / Claude / Kimi / Gemini — যেকোনো একটা খুলে আগে ফাইলটি attach করুন (বা কনটেন্ট পেস্ট করুন), তারপর প্রম্পটটি দিন। ব্যস — জিজ্ঞেস করুন: <em>"আমাকে ঠকানো হয়েছে, এখন কী করব?"</em></div>
+  </div>
+</div>
+
+<div class="card">
+  <h2>🆘 ভুক্তভোগীদের জন্য</h2>
+  <ul>
+    <li><a href="https://github.com/sraban566/bangladesh-law/blob/main/guides/victims/what-to-do-if-cheated.md">ঠকানো হয়েছে — এখন কী করব?</a> (প্রমাণ সংগ্রহ → FIR → কোন আদালতে)</li>
+    <li><a href="https://github.com/sraban566/bangladesh-law/blob/main/guides/victims/how-to-file-fir-gd.md">FIR ও GD কীভাবে করবেন</a> (পুলিশ না নিলে কী করবেন)</li>
+    <li><a href="https://github.com/sraban566/bangladesh-law/blob/main/guides/victims/legal-aid-helplines.md">ফ্রি আইনি সাহায্য ও হেল্পলাইন</a></li>
+  </ul>
+</div>
+
+<div class="card">
+  <h2>🏢 ব্যবসায়ীদের জন্য</h2>
+  <ul>
+    <li><a href="https://github.com/sraban566/bangladesh-law/blob/main/guides/business/business-legality-checklist.md">আমার ব্যবসা legal কিনা — সম্পূর্ণ চেকলিস্ট</a></li>
+    <li><a href="https://github.com/sraban566/bangladesh-law/blob/main/guides/business/company-registration.md">কোম্পানি রেজিস্ট্রেশন (RJSC) ধাপে ধাপে</a></li>
+    <li><a href="https://github.com/sraban566/bangladesh-law/blob/main/guides/business/verify-deed-and-company.md">দলিল ও কোম্পানি যাচাই — জালিয়াতি থেকে বাঁচুন</a></li>
+  </ul>
+</div>
+
+<div class="card">
+  <h2>📚 যা যা আছে ভেতরে</h2>
+  <table>
+    <tr><th>বিষয়</th><th>কনটেন্ট</th></tr>
+    <tr><td>সংবিধান</td><td>পূর্ণ কাঠামো, সংশোধনী, মৌলিক অধিকার (Article 26–47A)</td></tr>
+    <tr><td>প্রধান আইন</td><td>দণ্ডবিধি ১৮৬০, ফৌজদারি/দেওয়ানি কার্যবিধি, সাক্ষ্য আইন — ধারাভিত্তিক নোট</td></tr>
+    <tr><td>বিশেষ আইন</td><td>শ্রম আইন ২০০৬, নারী-শিশু নির্যাতন দমন, সাইবার, ভূমি, পারিবারিক</td></tr>
+    <tr><td>Landmark রায়</td><td>৮ম/৫ম/৭ম/১৩তম/১৬তম সংশোধনী কেস, মাসদার হোসেন, PIL — facts/issues/ratio সহ</td></tr>
+    <tr><td>হটলাইন</td><td>999 · 109 · 1098 · 16121 · 16430</td></tr>
+  </table>
+</div>
+
+<div class="card">
+  <h2>🤝 অবদান রাখুন</h2>
+  <p>ভুল পেলে বা নতুন আইন/সংশোধনী যোগ করতে চাইলে GitHub-এ Issue বা Pull Request দিন: <a href="https://github.com/sraban566/bangladesh-law">github.com/sraban566/bangladesh-law</a></p>
+</div>
+
+</div>
+
+<footer>
+  Made with ❤️ for the people of Bangladesh · License: <a href="https://github.com/sraban566/bangladesh-law/blob/main/LICENSE">CC0 1.0</a><br>
+  অফিসিয়াল আইনের উৎস: <a href="https://bdlaws.minlaw.gov.bd">bdlaws.minlaw.gov.bd</a>
+</footer>
+
+<script>
+function copyPrompt() {
+  const text = document.getElementById('prompt1').innerText;
+  navigator.clipboard.writeText(text).then(() => {
+    const btn = document.querySelector('button.copy');
+    btn.innerText = '✅ কপি হয়েছে!';
+    setTimeout(() => btn.innerText = '📋 কপি করুন', 2000);
+  });
+}
+</script>
+</body>
+</html>
