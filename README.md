@@ -1,51 +1,76 @@
-# Bangladesh Law 🇧🇩
+# Bangladesh Law 🇧🇩 — Digital Legal Assistant Knowledge Base
 
-বাংলাদেশের প্রধান আইন, সনদ ও সংবিধানের একটি সংগঠিত, উন্মুক্ত সংগ্রহশালা।
-An open, organized collection of the Constitution, major codes, and acts of Bangladesh.
+বাংলাদেশের আইন নিয়ে তৈরি একটি **AI-রেডি নলেজ বেস** — Claude, ChatGPT, Kimi সহ যেকোনো AI প্ল্যাটফর্মে লোড করলেই সেটি একজন **ডিজিটাল আইন সহকারী** হিসেবে কাজ করবে।
 
-> ⚠️ **Disclaimer / দাবিত্যাগ**: এই রিপোজিটরি শুধুমাত্র শিক্ষামূলক ও তথ্যগত উদ্দেশ্যে। এটি আইনি পরামর্শ নয়। কোনো আইনি সিদ্ধান্তের আগে সর্বদা সরকারি সূত্র ও যোগ্য আইনজীবীর পরামর্শ নিন।
-> This repository is for educational and informational purposes only. It is **not legal advice**. Always verify with official government sources and consult a qualified lawyer.
+An AI-ready knowledge base of Bangladeshi law. Load it into Claude, ChatGPT, Kimi, or any AI platform — and it becomes a **digital legal assistant** that can explain your rights, guide victims, and check business compliance in plain Bangla or English.
 
-## 📂 Structure / কাঠামো
+> ⚠️ **দাবিত্যাগ / Disclaimer**: এই রিপোজিটরি ও এ থেকে তৈরি যেকোনো AI সহকারী **আইনজীবী নয়**। এটি শুধুমাত্র সাধারণ তথ্য ও পদ্ধতি জানায় — আইনি পরামর্শ নয়। নির্দিষ্ট মামলার জন্য সর্বদা লাইসেন্সপ্রাপ্ত অ্যাডভোকেটের পরামর্শ নিন এবং অফিসিয়াল সূত্র (https://bdlaws.minlaw.gov.bd) যাচাই করুন।
+
+## 🤖 AI প্ল্যাটফর্মে ইনস্টল করুন
+
+| প্ল্যাটফর্ম | গাইড | সময় |
+|---|---|---|
+| **Claude** (Projects / Claude Code / Skill) | [install/claude.md](install/claude.md) | ~৫ মিনিট |
+| **ChatGPT** (Custom GPT / Instructions) | [install/chatgpt.md](install/chatgpt.md) | ~৫ মিনিট |
+| **Kimi** (সেশন / Skill / Plugin) | [install/kimi.md](install/kimi.md) | ~৫ মিনিট |
+
+AI-কে কীভাবে আচরণ করতে হবে তা লেখা আছে [`SKILL.md`](SKILL.md) ও [`AGENTS.md`](AGENTS.md)-এ — এই দুটো ফাইলই "ডিজিটাল আইনজীবী" ব্যবহারকে নিরাপদ, সঠিক ও সহায়ক করে তোলে।
+
+## 🆘 ভুক্তভোগী? এখান থেকে শুরু করুন
+
+| পরিস্থিতি | গাইড |
+|---|---|
+| ঠকানো হয়েছে / প্রতারণার শিকার | [guides/victims/what-to-do-if-cheated.md](guides/victims/what-to-do-if-cheated.md) |
+| FIR বা GD করতে চান | [guides/victims/how-to-file-fir-gd.md](guides/victims/how-to-file-fir-gd.md) |
+| ফ্রি আইনি সাহায্য ও হেল্পলাইন (999, 109, 16430…) | [guides/victims/legal-aid-helplines.md](guides/victims/legal-aid-helplines.md) |
+
+## 🏢 ব্যবসায়ী? আপনার ব্যবসা legal কিনা চেক করুন
+
+| প্রয়োজন | গাইড |
+|---|---|
+| ব্যবসার legality চেকলিস্ট (ট্রেড লাইসেন্স, TIN, VAT, শ্রম আইন) | [guides/business/business-legality-checklist.md](guides/business/business-legality-checklist.md) |
+| কোম্পানি রেজিস্ট্রেশন (RJSC) ধাপে ধাপে | [guides/business/company-registration.md](guides/business/company-registration.md) |
+| দলিল/কোম্পানি যাচাই — জালিয়াতি থেকে বাঁচুন | [guides/business/verify-deed-and-company.md](guides/business/verify-deed-and-company.md) |
+
+## 📂 পূর্ণ কাঠামো
 
 ```
 bangladesh-law/
-├── constitution/        # Constitution of Bangladesh & amendments
-├── codes/               # Major codes (Penal Code, CrPC, CPC, Evidence Act)
-├── acts/                # Acts organized by category
-│   ├── labour/          # Labour Act & rules (incl. section-wise notes)
-│   ├── family/          # Marriage, divorce, family laws
-│   ├── cyber/           # ICT / Cyber security laws
-│   ├── land/            # Land & property laws
-│   └── women-children/  # Women & children protection laws
-├── judgments/           # Landmark Supreme Court decisions
-└── resources/           # Official sources, courts, research links
+├── SKILL.md               # AI-এর জন্য মূল নির্দেশনা (digital lawyer persona)
+├── AGENTS.md              # AI agent-দের জন্য সংক্ষিপ্ত নিয়ম
+├── install/               # Claude / ChatGPT / Kimi install গাইড
+├── guides/
+│   ├── victims/           # ভুক্তভোগীদের জন্য ধাপে ধাপে গাইড
+│   └── business/          # ব্যবসার legality চেকলিস্ট ও যাচাই
+├── constitution/          # সংবিধান, সংশোধনী, মৌলিক অধিকার
+├── codes/                 # Penal Code, CrPC, CPC, Evidence Act (ধারাভিত্তিক)
+├── acts/                  # শ্রম, পারিবারিক, সাইবার, ভূমি, নারী-শিশু আইন
+├── judgments/             # ১০টা landmark রায় (facts, issues, ratio সহ)
+├── resources/             # অফিসিয়াল সূত্র, আদালতের কাঠামো
+└── data/laws-index.json   # মেশিন-রিডেবল আইনের ইনডেক্স
 ```
 
-## 📖 Detailed notes / বিস্তারিত নোট
+## 📖 বিস্তারিত আইনি নোট
 
 | Document | Description |
 |----------|-------------|
-| [Penal Code, 1860](codes/penal-code-1860.md) | ধারাভিত্তিক নোট — murder, theft, cheating, defamation |
+| [Penal Code, 1860](codes/penal-code-1860.md) | খুন, চুরি, প্রতারণা, মানহানি — ধারাভিত্তিক |
 | [CrPC, 1898](codes/crpc-1898.md) | FIR থেকে আপিল — arrest, remand, bail, s. 561A |
-| [CPC, 1908](codes/cpc-1908.md) | মামলা দায়ের থেকে ডিক্রি জারী — injunction, appeal |
-| [Evidence Act, 1872](codes/evidence-act-1872.md) | সাক্ষ্যের নিয়ম — confession, dying declaration, জেরা |
-| [Labour Act, 2006](acts/labour/labour-act-2006.md) | নিয়োগপত্র, ছুটি, ওভারটাইম, শ্রম আদালত |
-| [Fundamental Rights](constitution/fundamental-rights.md) | Article 26–47A — মৌলিক অধিকারের ম্যাপ |
-| [Landmark Judgments](judgments/README.md) | 8th/5th/7th/16th Amendment cases, PIL, Masdar Hossain |
+| [CPC, 1908](codes/cpc-1908.md) | মামলা দায়ের থেকে ডিক্রি জারী |
+| [Evidence Act, 1872](codes/evidence-act-1872.md) | স্বীকারোক্তি, সাক্ষ্য, জেরা |
+| [Labour Act, 2006](acts/labour/labour-act-2006.md) | নিয়োগপত্র, ছুটি, ওভারটাইম, ম্যাটার্নিটি |
+| [Fundamental Rights](constitution/fundamental-rights.md) | Article 26–47A ম্যাপ |
+| [Landmark Judgments](judgments/README.md) | 8th/5th/7th/13th/16th Amendment, PIL, Masdar Hossain |
 
-## 📜 Official Source / সরকারি উৎস
+## 📜 অফিসিয়াল সূত্র
 
-All laws should be verified against the official government database:
-
-- **Laws of Bangladesh (Ministry of Law)**: https://bdlaws.minlaw.gov.bd
-- **Supreme Court of Bangladesh**: https://supremecourt.gov.bd
-- **Bangladesh Parliament**: https://parl.gov.bd
+- **Laws of Bangladesh**: https://bdlaws.minlaw.gov.bd
+- **Supreme Court**: https://supremecourt.gov.bd | **RJSC**: https://rjsc.gov.bd | **NBR**: https://nbr.gov.bd
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a pull request. Corrections, missing acts, and Bangla/English translations are all appreciated.
+ভুল পেলে, নতুন আইন/সংশোধনী যোগ করতে চাইলে — [CONTRIBUTING.md](CONTRIBUTING.md) পড়ে PR দিন। প্রতিটা এন্ট্রি অবশ্যই অফিসিয়াল সূত্রসহ।
 
 ## 📄 License
 
-Content: [CC0 1.0](LICENSE) — laws of Bangladesh are public documents; summaries here are released into the public domain.
+[CC0 1.0](LICENSE) — বাংলাদেশের আইন জনস্বার্থে উন্মুক্ত; এই repo-র সামারি ও গাইড পাবলিক ডোমেইনে।
