@@ -74,6 +74,7 @@ bangladesh-law/
 | [CrPC, 1898](codes/crpc-1898.md) | FIR থেকে আপিল — arrest, remand, bail, s. 561A |
 | [CPC, 1908](codes/cpc-1908.md) | মামলা দায়ের থেকে ডিক্রি জারী |
 | [Evidence Act, 1872](codes/evidence-act-1872.md) | স্বীকারোক্তি, সাক্ষ্য, জেরা |
+| [BRTA and Road Transport Law](acts/transport/README.md) | ২০১৭ সালের BRTA আইন, ২০১৮ সালের সড়ক পরিবহণ আইন ও ২০২২ সালের বিধিমালার সরকারি সূত্র |
 | [Labour Act, 2006](acts/labour/labour-act-2006.md) | নিয়োগপত্র, ছুটি, ওভারটাইম, ম্যাটার্নিটি |
 | [Fundamental Rights](constitution/fundamental-rights.md) | Article 26–47A ম্যাপ |
 | [Landmark Judgments](judgments/README.md) | 8th/5th/7th/13th/16th Amendment, PIL, Masdar Hossain |
