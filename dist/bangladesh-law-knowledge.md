@@ -1,5 +1,7 @@
 # Bangladesh Law — Combined Knowledge Base
 
+Reviewed law catalog: https://github.com/sraban566/bangladesh-law/blob/main/data/laws-catalog.json (256 submitted entries; 237 linked to official sources, 19 still require review).
+
 
 
 ---
@@ -1052,27 +1054,24 @@ Consolidated labour law (merged 25 previous laws). Major amendments: 2013 (post-
 
 # Family Laws / পারিবারিক আইন
 
-Family law in Bangladesh varies by religion for personal matters (marriage, divorce, inheritance), plus general statutes.
+**Reviewed: 2026-11-10.** Personal-law rules differ by religion and subject. Use the current official text for a specific issue.
 
-## General statutes
+| Instrument | Official text |
+|---|---|
+| Family Courts Act, 2023 / পারিবারিক আদালত আইন, ২০২৩ | [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/act-1444.html) |
+| Child Marriage Restraint Act, 2017 / বাল্যবিবাহ নিরোধ আইন, ২০১৭ | [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/act-1207.html) |
+| Dowry Prohibition Act, 2018 / যৌতুক নিরোধ আইন, ২০১৮ | [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/act-1256.html) |
+| Muslim Family Laws Ordinance, 1961 | [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/act-305.html) |
+| Muslim Marriages and Divorces (Registration) Act, 1974 | [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/act-476.html) |
+| Muslim Personal Law (Shariat) Application Act, 1937 | [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/act-173.html) |
+| Hindu Marriage Registration Act, 2012 / হিন্দু বিবাহ নিবন্ধন আইন, ২০১২ | [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/act-1105.html) |
+| Divorce Act, 1869 | [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/act-20.html) |
+| Special Marriage Act, 1872 | [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/act-25.html) |
+| Guardians and Wards Act, 1890 | [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/act-64.html) |
 
-- **Family Courts Ordinance, 1985** — establishes Family Courts for suits on marriage, divorce, dower (মোহরানা), maintenance, guardianship, and custody.
-- **Child Marriage Restraint Act, 2017** — prohibits marriage below 18 (women) / 21 (men); special provision in exceptional cases with court/parental consent.
-- **Dowry Prohibition Act, 1980** — criminalizes giving/taking dowry (যৌতুক).
-- **Muslim Family Laws Ordinance, 1961** — registration of Muslim marriages, polygamy restrictions (arbitration council permission), divorce procedure (talaq notice).
-- **Muslim Marriages and Divorces (Registration) Act, 1974** — mandatory registration via licensed Nikah Registrars (কাজী).
-- **Muslim Personal Law (Shariat) Application Act, 1937** — applies Shariat to Muslims in personal matters.
+The official index marks the **Family Courts Ordinance, 1985** and **Dowry Prohibition Act, 1980** as repealed. The [2023 Family Courts Act](https://bdlaws.minlaw.gov.bd/act-1444.html) and [2018 Dowry Prohibition Act](https://bdlaws.minlaw.gov.bd/act-1256.html) are the relevant newer texts.
 
-## For other communities
-
-- Hindu personal law applies to Hindus (marriage, inheritance — largely uncodified; Hindu Marriage Registration Act, 2012 provides optional registration).
-- Christian Divorce Act, 1869; Special Marriage Act, 1872 (inter-faith marriages).
-
-## Guardianship & custody
-
-- Guardians and Wards Act, 1890 — court-appointed guardians; welfare of the minor is the paramount consideration.
-
-> Official texts: https://bdlaws.minlaw.gov.bd
+This page provides general legal information, not legal advice. For a specific case, consult a licensed advocate.
 
 
 
@@ -1082,30 +1081,19 @@ Family law in Bangladesh varies by religion for personal matters (marriage, divo
 
 # Cyber & ICT Laws / সাইবার ও তথ্যপ্রযুক্তি আইন
 
-## Cyber Security Act, 2023 (সাইবার নিরাপত্তা আইন, ২০২৩)
+**Reviewed: 2026-11-10.** For a specific provision, use the current official text and check later amendments.
 
-Replaced the Digital Security Act, 2018. Key provisions include:
+| Instrument | Status shown by official sources | Official text |
+|---|---|---|
+| Digital Security Act, 2018 / ডিজিটাল নিরাপত্তা আইন, ২০১৮ | Repealed | [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/act-1261.html) |
+| Cyber Security Act, 2023 / সাইবার নিরাপত্তা আইন, ২০২৩ | Repealed | [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/act-1457.html) |
+| Cyber Protection Ordinance, 2025 / সাইবার সুরক্ষা অধ্যাদেশ, ২০২৫ | Repealed by the 2026 Act | [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/act-1538.html) |
+| Cyber Protection Act, 2026 / সাইবার সুরক্ষা আইন, ২০২৬ | Current framework in the checked official text; Act 81 of 2026 | [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/act-1710.html) |
+| Cyber Protection (Amendment) Act, 2026 / সাইবার সুরক্ষা (সংশোধন) আইন, ২০২৬ | Amendment to the 2026 Act; Act 99 of 2026 | [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/act-1728.html) |
 
-- Punishments for unauthorized access to computers/digital devices
-- Offences related to spreading false or offensive information online
-- Powers of the National Cyber Security Agency
-- Investigation and trial procedures
+The 2026 Act states that it repeals and reenacts the 2025 Ordinance. The 2025 Ordinance states that it repealed the 2023 Act. Read the consolidated 2026 Act and its amendments before citing any section, offence, or penalty.
 
-> ⚠️ Cyber legislation in Bangladesh has changed rapidly (ICT Act 2006 → DSA 2018 → CSA 2023, with subsequent amendments and proposed replacements). Always check https://bdlaws.minlaw.gov.bd for the current law in force.
-
-## Historical
-
-| Law | Year | Status |
-|-----|------|--------|
-| Information and Communication Technology Act | 2006 | s. 57 heavily criticized; amended 2013 |
-| Digital Security Act | 2018 | Replaced s. 57-era offences; repealed 2023 |
-| Cyber Security Act | 2023 | Current framework (subject to change) |
-
-## Related
-
-- Pornography Control Act, 2012
-- Right to Information Act, 2009 (ধারা ৫ — citizen information rights)
-- Bangladesh Telecommunication Regulation Act, 2001 (BTRC)
+This page provides general legal information, not legal advice. For a specific case, consult a licensed advocate.
 
 
 
@@ -1149,31 +1137,22 @@ Land law is one of the most litigated areas in Bangladesh.
 
 # Women & Children Protection Laws / নারী ও শিশু সুরক্ষা আইন
 
-## Women
+**Reviewed: 2026-11-10.** This is a source map. Read the current official text for a specific provision.
 
-- **Nari O Shishu Nirjatan Daman Ain, 2000** (নারী ও শিশু নির্যাতন দমন আইন) — the principal law against violence against women and children: rape, acid violence, trafficking, grievous hurt; special tribunals for speedy trial.
-- **Dowry Prohibition Act, 1980** — criminalizes dowry demand and giving/taking.
-- **Domestic Violence (Prevention and Protection) Act, 2010** — civil protection orders, residence orders, compensation for domestic violence victims.
-- **Acid Niyontron Ain, 2002** & **Acid Oporadh Daman Ain, 2002** — control of acid sale and punishment of acid attacks (including death penalty).
-- **Women and Children Repression Prevention (Special Provisions) Act, 1995** — earlier special law (overlaps with the 2000 Ain).
-- High Court directives on **sexual harassment (2009)** — guidelines for workplaces and educational institutions, having force of law until legislation.
+| Topic | Instrument | Official text |
+|---|---|---|
+| Violence against women and children | নারী ও শিশু নির্যাতন দমন আইন, ২০০০ | [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/act-835.html) |
+| Dowry | যৌতুক নিরোধ আইন, ২০১৮ | [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/act-1256.html) |
+| Domestic violence | পারিবারিক সহিংসতা (প্রতিরোধ ও সুরক্ষা) আইন, ২০১০ | [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/act-1063.html) |
+| Acid offences | এসিড অপরাধ দমন আইন, ২০০২ | [Bangladesh Code PDF](https://bdcode.gov.bd/upload/bdcodeact/2024-01-22-13-10-46-170.-Act-No.-2-of-2002.pdf) |
+| Acid control | এসিড নিয়ন্ত্রণ আইন, ২০০২ | [Bangladesh Code PDF](https://bdcode.gov.bd/upload/bdcodeact/2024-01-22-13-10-28-169.-Act-No.-1-of-2002.pdf) |
+| Children | শিশু আইন, ২০১৩ | [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/act-1119.html) |
+| Child marriage | বাল্যবিবাহ নিরোধ আইন, ২০১৭ | [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/act-1207.html) |
+| Human trafficking and migrant smuggling | মানব পাচার ও অভিবাসী চোরাচালান প্রতিরোধ ও দমন আইন, ২০২৬ | [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/act-1684.html) |
 
-## Children
+The official index marks the [Dowry Prohibition Act, 1980](https://bdlaws.minlaw.gov.bd/act-607.html) and [Prevention and Suppression of Human Trafficking Act, 2012](https://bdlaws.minlaw.gov.bd/act-1086.html) as repealed. Use the newer official texts linked above.
 
-- **Children Act, 2013** (শিশু আইন) — juvenile justice: Child Courts, child-friendly procedures, diversion; defines child as under 18.
-- **Child Marriage Restraint Act, 2017**
-- **Prevention of Human Trafficking Act, 2012**
-- **Children Act, 2013** provisions on street-connected children, care homes
-- Bangladesh is a party to the **UN Convention on the Rights of the Child (CRC)**.
-
-## Helplines (verify before publishing)
-
-- National helpline for violence against women & children: **109** (Multi-Sectoral Programme on Violence Against Women)
-- Child helpline: **1098** (Child Helpline Bangladesh)
-- Police emergency: **999**
-- Legal aid: National Legal Aid Services Organization (https://nlaso.gov.bd), free legal aid hotline **16430**
-
-> Official texts: https://bdlaws.minlaw.gov.bd
+This page provides general legal information, not legal advice. For a specific case, consult a licensed advocate.
 
 
 
@@ -1693,6 +1672,32 @@ The Court directed that:
 
 ---
 
+<!-- FILE: acts/transport/README.md -->
+
+# BRTA and Road Transport Law
+
+**Checked against official sources: 2026-11-09.** This is a short source guide, not a substitute for the current official text. Check amendments, rules, notices, and commencement dates before relying on a provision.
+
+## Primary sources
+
+| Instrument | Scope | Official text |
+|---|---|---|
+| বাংলাদেশ সড়ক পরিবহণ কর্তৃপক্ষ আইন, ২০১৭ (Act 17 of 2017) | Establishes and governs the Bangladesh Road Transport Authority (BRTA). Section 8 lists functions including driving licences, vehicle registration, fitness certificates, and route permits. The official text notes commencement on 1 November 2019. | [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/act-print-1217.html) |
+| সড়ক পরিবহণ আইন, ২০১৮ (Act 47 of 2018) | Road transport framework covering driving licences, vehicle registration, fitness, route permits, traffic control, and related offences. The Act states that it replaces the Motor Vehicles Ordinance, 1983. | [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/act-1262.html) |
+| সড়ক পরিবহন বিধিমালা, ২০২২ (SRO 367-Law/2022) | Rules made under section 122 of the Road Transport Act, 2018. Published in the Bangladesh Gazette on 27 December 2022. | [Official Gazette (PDF)](https://www.dpp.gov.bd/upload_file/gazettes/47240_91814.pdf) |
+
+## How these fit together
+
+The **2017 Act** concerns BRTA as an institution and its functions. The **2018 Act** supplies the main road transport legal framework. The **2022 Rules** set detailed procedures under that Act. For a particular licence, registration, fitness certificate, route permit, fee, or penalty, read the relevant current provision and official BRTA notice rather than relying on this summary.
+
+Related official portal: [BRTA](https://brta.gov.bd).
+
+This page provides general legal information, not legal advice. For a specific dispute or case, consult a licensed advocate.
+
+
+
+---
+
 <!-- FILE: data/laws-index.json -->
 
 {
@@ -1701,32 +1706,258 @@ The Court directed that:
   "description": "Machine-readable starter index of major Bangladeshi laws. Not exhaustive. Always verify at https://bdlaws.minlaw.gov.bd",
   "official_source": "https://bdlaws.minlaw.gov.bd",
   "laws": [
-    { "name_en": "Constitution of the People's Republic of Bangladesh", "name_bn": "গণপ্রজাতন্ত্রী বাংলাদেশের সংবিধান", "year": 1972, "category": "constitutional", "notes": "Adopted 4 Nov 1972, effective 16 Dec 1972. Multiple amendments (see constitution/README.md)." },
-    { "name_en": "The Penal Code", "name_bn": "দণ্ডবিধি", "year": 1860, "category": "criminal", "notes": "511 sections. See codes/penal-code-1860.md" },
-    { "name_en": "The Code of Criminal Procedure", "name_bn": "ফৌজদারি কার্যবিধি", "year": 1898, "category": "criminal-procedure", "notes": "See codes/crpc-1898.md" },
-    { "name_en": "The Code of Civil Procedure", "name_bn": "দেওয়ানি কার্যবিধি", "year": 1908, "category": "civil-procedure", "notes": "See codes/cpc-1908.md" },
-    { "name_en": "The Evidence Act", "name_bn": "সাক্ষ্য আইন", "year": 1872, "category": "evidence", "notes": "See codes/evidence-act-1872.md" },
-    { "name_en": "The Contract Act", "name_bn": "চুক্তি আইন", "year": 1872, "category": "commercial" },
-    { "name_en": "The Negotiable Instruments Act", "name_bn": "নেগোশিয়েবল ইনস্ট্রুমেন্টস আইন", "year": 1881, "category": "commercial", "notes": "s. 138 — cheque dishonour" },
-    { "name_en": "The Transfer of Property Act", "name_bn": "স্থাবর সম্পত্তি হস্তান্তর আইন", "year": 1882, "category": "property" },
-    { "name_en": "The Registration Act", "name_bn": "রেজিস্ট্রেশন আইন", "year": 1908, "category": "property" },
-    { "name_en": "The Limitation Act", "name_bn": "পরিপালন আইন (লিমিটেশন)", "year": 1908, "category": "procedure" },
-    { "name_en": "The Companies Act", "name_bn": "কোম্পানি আইন", "year": 1994, "category": "commercial", "notes": "RJSC: https://rjsc.gov.bd" },
-    { "name_en": "The Partnership Act", "name_bn": "অংশীদারিত্ব আইন", "year": 1932, "category": "commercial" },
-    { "name_en": "Bangladesh Labour Act", "name_bn": "বাংলাদেশ শ্রম আইন", "year": 2006, "category": "labour", "notes": "Amended 2013, 2018. See acts/labour/" },
-    { "name_en": "Nari O Shishu Nirjatan Daman Ain", "name_bn": "নারী ও শিশু নির্যাতন দমন আইন", "year": 2000, "category": "criminal-special", "notes": "Special tribunals" },
-    { "name_en": "Acid Oporadh Daman Ain", "name_bn": "এসিড অপরাধ দমন আইন", "year": 2002, "category": "criminal-special" },
-    { "name_en": "Dowry Prohibition Act", "name_bn": "যৌতুক নিরোধ আইন", "year": 1980, "category": "family" },
-    { "name_en": "Child Marriage Restraint Act", "name_bn": "বাল্যবিবাহ নিরোধ আইন", "year": 2017, "category": "family" },
-    { "name_en": "Muslim Family Laws Ordinance", "name_bn": "মুসলিম পারিবারিক আইন অধ্যাদেশ", "year": 1961, "category": "family" },
-    { "name_en": "Family Courts Ordinance", "name_bn": "পারিবারিক আদালত অধ্যাদেশ", "year": 1985, "category": "family" },
-    { "name_en": "Children Act", "name_bn": "শিশু আইন", "year": 2013, "category": "children" },
-    { "name_en": "Cyber Security Act", "name_bn": "সাইবার নিরাপত্তা আইন", "year": 2023, "category": "cyber", "notes": "Replaced Digital Security Act 2018. Verify current status — cyber legislation changes frequently." },
-    { "name_en": "Consumer Rights Protection Act", "name_bn": "ভোক্তা অধিকার সংরক্ষণ আইন", "year": 2009, "category": "consumer", "notes": "DNCRP hotline 16121" },
-    { "name_en": "Artha Rin Adalat Ain", "name_bn": "অর্থ ঋণ আদালত আইন", "year": 2003, "category": "commercial", "notes": "Money loan courts" },
-    { "name_en": "Legal Aid Services Act", "name_bn": "আইনগত সহায়তা প্রদান আইন", "year": 2000, "category": "legal-aid", "notes": "NLASO hotline 16430" },
-    { "name_en": "Right to Information Act", "name_bn": "তথ্য অধিকার আইন", "year": 2009, "category": "governance" },
-    { "name_en": "Domestic Violence (Prevention and Protection) Act", "name_bn": "পারিবারিক সহিংসতা (প্রতিরোধ ও সুরক্ষা) আইন", "year": 2010, "category": "women-children" },
-    { "name_en": "Prevention of Human Trafficking Act", "name_bn": "মানব পাচার প্রতিরোধ আইন", "year": 2012, "category": "criminal-special" }
-  ]
+    {
+      "name_en": "Constitution of the People's Republic of Bangladesh",
+      "name_bn": "গণপ্রজাতন্ত্রী বাংলাদেশের সংবিধান",
+      "year": 1972,
+      "category": "constitutional",
+      "notes": "Adopted 4 Nov 1972, effective 16 Dec 1972. Multiple amendments (see constitution/README.md).",
+      "official_source": "https://bdlaws.minlaw.gov.bd/act-367.html",
+      "checked_on": "2026-11-10"
+    },
+    {
+      "name_en": "The Penal Code",
+      "name_bn": "দণ্ডবিধি",
+      "year": 1860,
+      "category": "criminal",
+      "notes": "511 sections. See codes/penal-code-1860.md",
+      "official_source": "https://bdlaws.minlaw.gov.bd/act-11.html",
+      "checked_on": "2026-11-10"
+    },
+    {
+      "name_en": "The Code of Criminal Procedure",
+      "name_bn": "ফৌজদারি কার্যবিধি",
+      "year": 1898,
+      "category": "criminal-procedure",
+      "notes": "See codes/crpc-1898.md",
+      "official_source": "https://bdlaws.minlaw.gov.bd/act-75.html",
+      "checked_on": "2026-11-10"
+    },
+    {
+      "name_en": "The Code of Civil Procedure",
+      "name_bn": "দেওয়ানি কার্যবিধি",
+      "year": 1908,
+      "category": "civil-procedure",
+      "notes": "See codes/cpc-1908.md",
+      "official_source": "https://bdlaws.minlaw.gov.bd/act-86.html",
+      "checked_on": "2026-11-10"
+    },
+    {
+      "name_en": "The Evidence Act",
+      "name_bn": "সাক্ষ্য আইন",
+      "year": 1872,
+      "category": "evidence",
+      "notes": "See codes/evidence-act-1872.md",
+      "official_source": "https://bdlaws.minlaw.gov.bd/act-24.html",
+      "checked_on": "2026-11-10"
+    },
+    {
+      "name_en": "The Contract Act",
+      "name_bn": "চুক্তি আইন",
+      "year": 1872,
+      "category": "commercial",
+      "official_source": "https://bdlaws.minlaw.gov.bd/act-26.html",
+      "checked_on": "2026-11-10"
+    },
+    {
+      "name_en": "The Negotiable Instruments Act",
+      "name_bn": "নেগোশিয়েবল ইনস্ট্রুমেন্টস আইন",
+      "year": 1881,
+      "category": "commercial",
+      "notes": "s. 138 — cheque dishonour",
+      "official_source": "https://bdlaws.minlaw.gov.bd/act-46.html",
+      "checked_on": "2026-11-10"
+    },
+    {
+      "name_en": "The Transfer of Property Act",
+      "name_bn": "স্থাবর সম্পত্তি হস্তান্তর আইন",
+      "year": 1882,
+      "category": "property",
+      "official_source": "https://bdlaws.minlaw.gov.bd/act-48.html",
+      "checked_on": "2026-11-10"
+    },
+    {
+      "name_en": "The Registration Act",
+      "name_bn": "রেজিস্ট্রেশন আইন",
+      "year": 1908,
+      "category": "property",
+      "official_source": "https://bdlaws.minlaw.gov.bd/act-90.html",
+      "checked_on": "2026-11-10"
+    },
+    {
+      "name_en": "The Limitation Act",
+      "name_bn": "পরিপালন আইন (লিমিটেশন)",
+      "year": 1908,
+      "category": "procedure",
+      "official_source": "https://bdlaws.minlaw.gov.bd/act-88.html",
+      "checked_on": "2026-11-10"
+    },
+    {
+      "name_en": "The Companies Act",
+      "name_bn": "কোম্পানি আইন",
+      "year": 1994,
+      "category": "commercial",
+      "notes": "RJSC: https://rjsc.gov.bd",
+      "official_source": "https://bdcode.gov.bd/upload/bdcodeact/2024-01-22-11-18-07-80.-Companies-Law-18-of-1994_2005-%28page-103-477%29.pdf",
+      "checked_on": "2026-11-10"
+    },
+    {
+      "name_en": "The Partnership Act",
+      "name_bn": "অংশীদারিত্ব আইন",
+      "year": 1932,
+      "category": "commercial",
+      "official_source": "https://bdlaws.minlaw.gov.bd/act-157.html",
+      "checked_on": "2026-11-10"
+    },
+    {
+      "name_en": "Bangladesh Labour Act",
+      "name_bn": "বাংলাদেশ শ্রম আইন",
+      "year": 2006,
+      "category": "labour",
+      "notes": "Amended 2013, 2018. See acts/labour/",
+      "official_source": "https://bdlaws.minlaw.gov.bd/act-952.html",
+      "checked_on": "2026-11-10"
+    },
+    {
+      "name_en": "Nari O Shishu Nirjatan Daman Ain",
+      "name_bn": "নারী ও শিশু নির্যাতন দমন আইন",
+      "year": 2000,
+      "category": "criminal-special",
+      "notes": "Special tribunals",
+      "official_source": "https://bdlaws.minlaw.gov.bd/act-835.html",
+      "checked_on": "2026-11-10"
+    },
+    {
+      "name_en": "Acid Oporadh Daman Ain",
+      "name_bn": "এসিড অপরাধ দমন আইন",
+      "year": 2002,
+      "category": "criminal-special",
+      "official_source": "https://bdcode.gov.bd/upload/bdcodeact/2024-01-22-13-10-46-170.-Act-No.-2-of-2002.pdf",
+      "checked_on": "2026-11-10"
+    },
+    {
+      "name_en": "Dowry Prohibition Act",
+      "name_bn": "যৌতুক নিরোধ আইন",
+      "year": 2018,
+      "category": "family",
+      "official_source": "https://bdlaws.minlaw.gov.bd/act-1256.html",
+      "notes": "Replaces the repealed 1980 Act; historical record in data/laws-catalog.json.",
+      "checked_on": "2026-11-10"
+    },
+    {
+      "name_en": "Child Marriage Restraint Act",
+      "name_bn": "বাল্যবিবাহ নিরোধ আইন",
+      "year": 2017,
+      "category": "family",
+      "official_source": "https://bdlaws.minlaw.gov.bd/act-1207.html",
+      "checked_on": "2026-11-10"
+    },
+    {
+      "name_en": "Muslim Family Laws Ordinance",
+      "name_bn": "মুসলিম পারিবারিক আইন অধ্যাদেশ",
+      "year": 1961,
+      "category": "family",
+      "official_source": "https://bdlaws.minlaw.gov.bd/act-305.html",
+      "checked_on": "2026-11-10"
+    },
+    {
+      "name_en": "Family Courts Act",
+      "name_bn": "পারিবারিক আদালত আইন",
+      "year": 2023,
+      "category": "family",
+      "official_source": "https://bdlaws.minlaw.gov.bd/act-1444.html",
+      "notes": "Replaces the repealed Family Courts Ordinance, 1985.",
+      "checked_on": "2026-11-10"
+    },
+    {
+      "name_en": "Children Act",
+      "name_bn": "শিশু আইন",
+      "year": 2013,
+      "category": "children",
+      "official_source": "https://bdlaws.minlaw.gov.bd/act-1119.html",
+      "checked_on": "2026-11-10"
+    },
+    {
+      "name_en": "Cyber Protection Act",
+      "name_bn": "সাইবার সুরক্ষা আইন",
+      "year": 2026,
+      "category": "cyber",
+      "official_source": "https://bdlaws.minlaw.gov.bd/act-1710.html",
+      "notes": "Act 81 of 2026; amended by Act 99 of 2026. Replaces the repealed 2025 Ordinance; the 2023 Cyber Security Act is also repealed.",
+      "amendment_source": "https://bdlaws.minlaw.gov.bd/act-1728.html",
+      "checked_on": "2026-11-10"
+    },
+    {
+      "name_en": "Consumer Rights Protection Act",
+      "name_bn": "ভোক্তা অধিকার সংরক্ষণ আইন",
+      "year": 2009,
+      "category": "consumer",
+      "notes": "DNCRP hotline 16121",
+      "official_source": "https://bdlaws.minlaw.gov.bd/act-1014.html",
+      "checked_on": "2026-11-10"
+    },
+    {
+      "name_en": "Artha Rin Adalat Ain",
+      "name_bn": "অর্থ ঋণ আদালত আইন",
+      "year": 2003,
+      "category": "commercial",
+      "notes": "Money loan courts",
+      "official_source": "https://bdcode.gov.bd/upload/bdcodeact/2024-01-22-13-20-32-188.-Artha-Rin-Adalat-Ain%2C-2003_2004_fina.pdf",
+      "checked_on": "2026-11-10"
+    },
+    {
+      "name_en": "Legal Aid Services Act",
+      "name_bn": "আইনগত সহায়তা প্রদান আইন",
+      "year": 2000,
+      "category": "legal-aid",
+      "notes": "NLASO hotline 16430",
+      "official_source": "https://bdlaws.minlaw.gov.bd/act-834.html",
+      "checked_on": "2026-11-10"
+    },
+    {
+      "name_en": "Right to Information Act",
+      "name_bn": "তথ্য অধিকার আইন",
+      "year": 2009,
+      "category": "governance",
+      "official_source": "https://bdlaws.minlaw.gov.bd/act-1011.html",
+      "checked_on": "2026-11-10"
+    },
+    {
+      "name_en": "Domestic Violence (Prevention and Protection) Act",
+      "name_bn": "পারিবারিক সহিংসতা (প্রতিরোধ ও সুরক্ষা) আইন",
+      "year": 2010,
+      "category": "women-children",
+      "official_source": "https://bdlaws.minlaw.gov.bd/act-1063.html",
+      "checked_on": "2026-11-10"
+    },
+    {
+      "name_en": "Prevention and Suppression of Human Trafficking and Migrant Smuggling Act",
+      "name_bn": "মানব পাচার ও অভিবাসী চোরাচালান প্রতিরোধ ও দমন আইন",
+      "year": 2026,
+      "category": "criminal-special",
+      "official_source": "https://bdlaws.minlaw.gov.bd/act-1684.html",
+      "notes": "Act 55 of 2026; the 2012 human-trafficking Act is marked repealed in the official index.",
+      "checked_on": "2026-11-10"
+    },
+    {
+      "name_en": "Bangladesh Road Transport Authority Act",
+      "name_bn": "বাংলাদেশ সড়ক পরিবহণ কর্তৃপক্ষ আইন, ২০১৭",
+      "year": 2017,
+      "category": "road-transport",
+      "official_source": "https://bdlaws.minlaw.gov.bd/act-print-1217.html",
+      "notes": "Act 17 of 2017; see acts/transport/README.md. Official text notes commencement on 1 November 2019.",
+      "checked_on": "2026-11-09"
+    },
+    {
+      "name_en": "Road Transport Act",
+      "name_bn": "সড়ক পরিবহণ আইন, ২০১৮",
+      "year": 2018,
+      "category": "road-transport",
+      "official_source": "https://bdlaws.minlaw.gov.bd/act-1262.html",
+      "notes": "Act 47 of 2018; see acts/transport/README.md and Road Transport Rules, 2022.",
+      "checked_on": "2026-11-10"
+    }
+  ],
+  "reviewed_catalog": "data/laws-catalog.json",
+  "last_reviewed": "2026-11-10"
 }
