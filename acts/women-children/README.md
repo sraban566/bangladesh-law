@@ -1,27 +1,18 @@
 # Women & Children Protection Laws / নারী ও শিশু সুরক্ষা আইন
 
-## Women
+**Reviewed: 2026-11-10.** This is a source map. Read the current official text for a specific provision.
 
-- **Nari O Shishu Nirjatan Daman Ain, 2000** (নারী ও শিশু নির্যাতন দমন আইন) — the principal law against violence against women and children: rape, acid violence, trafficking, grievous hurt; special tribunals for speedy trial.
-- **Dowry Prohibition Act, 1980** — criminalizes dowry demand and giving/taking.
-- **Domestic Violence (Prevention and Protection) Act, 2010** — civil protection orders, residence orders, compensation for domestic violence victims.
-- **Acid Niyontron Ain, 2002** & **Acid Oporadh Daman Ain, 2002** — control of acid sale and punishment of acid attacks (including death penalty).
-- **Women and Children Repression Prevention (Special Provisions) Act, 1995** — earlier special law (overlaps with the 2000 Ain).
-- High Court directives on **sexual harassment (2009)** — guidelines for workplaces and educational institutions, having force of law until legislation.
+| Topic | Instrument | Official text |
+|---|---|---|
+| Violence against women and children | নারী ও শিশু নির্যাতন দমন আইন, ২০০০ | [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/act-835.html) |
+| Dowry | যৌতুক নিরোধ আইন, ২০১৮ | [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/act-1256.html) |
+| Domestic violence | পারিবারিক সহিংসতা (প্রতিরোধ ও সুরক্ষা) আইন, ২০১০ | [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/act-1063.html) |
+| Acid offences | এসিড অপরাধ দমন আইন, ২০০২ | [Bangladesh Code PDF](https://bdcode.gov.bd/upload/bdcodeact/2024-01-22-13-10-46-170.-Act-No.-2-of-2002.pdf) |
+| Acid control | এসিড নিয়ন্ত্রণ আইন, ২০০২ | [Bangladesh Code PDF](https://bdcode.gov.bd/upload/bdcodeact/2024-01-22-13-10-28-169.-Act-No.-1-of-2002.pdf) |
+| Children | শিশু আইন, ২০১৩ | [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/act-1119.html) |
+| Child marriage | বাল্যবিবাহ নিরোধ আইন, ২০১৭ | [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/act-1207.html) |
+| Human trafficking and migrant smuggling | মানব পাচার ও অভিবাসী চোরাচালান প্রতিরোধ ও দমন আইন, ২০২৬ | [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/act-1684.html) |
 
-## Children
+The official index marks the [Dowry Prohibition Act, 1980](https://bdlaws.minlaw.gov.bd/act-607.html) and [Prevention and Suppression of Human Trafficking Act, 2012](https://bdlaws.minlaw.gov.bd/act-1086.html) as repealed. Use the newer official texts linked above.
 
-- **Children Act, 2013** (শিশু আইন) — juvenile justice: Child Courts, child-friendly procedures, diversion; defines child as under 18.
-- **Child Marriage Restraint Act, 2017**
-- **Prevention of Human Trafficking Act, 2012**
-- **Children Act, 2013** provisions on street-connected children, care homes
-- Bangladesh is a party to the **UN Convention on the Rights of the Child (CRC)**.
-
-## Helplines (verify before publishing)
-
-- National helpline for violence against women & children: **109** (Multi-Sectoral Programme on Violence Against Women)
-- Child helpline: **1098** (Child Helpline Bangladesh)
-- Police emergency: **999**
-- Legal aid: National Legal Aid Services Organization (https://nlaso.gov.bd), free legal aid hotline **16430**
-
-> Official texts: https://bdlaws.minlaw.gov.bd
+This page provides general legal information, not legal advice. For a specific case, consult a licensed advocate.
