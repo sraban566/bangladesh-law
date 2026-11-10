@@ -1,0 +1,4842 @@
+{
+  "metadata": {
+    "country": "Bangladesh",
+    "submitted_record_count": 256,
+    "reviewed_on": "2026-11-10",
+    "source_file": "data/laws-list-unverified.json",
+    "official_sources": [
+      "https://bdlaws.minlaw.gov.bd/laws-of-bangladesh.html",
+      "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+      "https://www.dpp.gov.bd/bgpress/"
+    ],
+    "method": "Compared each submitted entry with official chronological indexes or the Government Gazette. A direct official link confirms the matched instrument's title or text, not that it remains in force. repeal_label_in_index reflects only a visible index label. Records without a reliable one-to-one match remain flagged for manual review.",
+    "review_counts": {
+      "official_source_found": 237,
+      "not_confirmed": 15,
+      "composite_entry": 4
+    }
+  },
+  "laws": [
+    {
+      "id": 1,
+      "submitted": {
+        "year": 1836,
+        "era": "British Era",
+        "category": "Administrative",
+        "title_en": "The Districts Act, 1836",
+        "title_bn": "জেলা গঠন আইন, ১৮৩৬"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Districts Act, 1836",
+        "official_index_year": "1836",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 2,
+      "submitted": {
+        "year": 1838,
+        "era": "British Era",
+        "category": "Inheritance & Wills",
+        "title_en": "The Bengal Wills and Intestacy Regulation, 1799 / Act 1838",
+        "title_bn": "বেঙ্গল উইলস অ্যান্ড ইনটেস্টেসি রেগুলেশন"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "THE [***] WILLS AND INTESTACY REGULATION, 1799",
+        "official_index_year": "1799",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1315.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": "Submitted year 1838 differs from the official title year 1799."
+      }
+    },
+    {
+      "id": 3,
+      "submitted": {
+        "year": 1850,
+        "era": "British Era",
+        "category": "Judiciary",
+        "title_en": "The Judicial Officers' Protection Act, 1850",
+        "title_bn": "বিচারিক কর্মকর্তাদের সুরক্ষা আইন, ১৮৫০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Judicial Officer's Protection Act, 1850",
+        "official_index_year": "1850",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-3.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 4,
+      "submitted": {
+        "year": 1850,
+        "era": "British Era",
+        "category": "Administrative",
+        "title_en": "The Public Servants (Inquiries) Act, 1850",
+        "title_bn": "সরকারি কর্মচারী (তদন্ত) আইন, ১৮৫০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Public Servants (Inquiries) Act, 1850",
+        "official_index_year": "1850",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-4.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 5,
+      "submitted": {
+        "year": 1855,
+        "era": "British Era",
+        "category": "Civil & Tort",
+        "title_en": "The Fatal Accidents Act, 1855",
+        "title_bn": "মারাত্মক দুর্ঘটনা ক্ষতিপূরণ আইন, ১৮৫৫"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Fatal Accidents Act, 1855",
+        "official_index_year": "1855",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-7.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 6,
+      "submitted": {
+        "year": 1856,
+        "era": "British Era",
+        "category": "Family Law",
+        "title_en": "The Hindu Widows' Remarriage Act, 1856",
+        "title_bn": "হিন্দু বিধবা পুনর্বিবাহ আইন, ১৮৫৬"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Hindu Widow's Re-marriage Act, 1856",
+        "official_index_year": "1856",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-9.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 7,
+      "submitted": {
+        "year": 1860,
+        "era": "British Era",
+        "category": "Corporate & Societies",
+        "title_en": "The Societies Registration Act, 1860",
+        "title_bn": "সোসাইটি নিবন্ধন আইন, ১৮৬০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Societies Registration Act, 1860",
+        "official_index_year": "1860",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-10.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 8,
+      "submitted": {
+        "year": 1860,
+        "era": "British Era",
+        "category": "Criminal Law",
+        "title_en": "The Penal Code, 1860",
+        "title_bn": "দণ্ডবিধি, ১৮৬০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Penal Code, 1860",
+        "official_index_year": "1860",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-11.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 9,
+      "submitted": {
+        "year": 1861,
+        "era": "British Era",
+        "category": "Law Enforcement",
+        "title_en": "The Police Act, 1861",
+        "title_bn": "পুলিশ আইন, ১৮৬১"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Police Act, 1861",
+        "official_index_year": "1861",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-12.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 10,
+      "submitted": {
+        "year": 1861,
+        "era": "British Era",
+        "category": "Transport",
+        "title_en": "The Stage-Carriages Act, 1861",
+        "title_bn": "স্টেজ-ক্যারেজ আইন, ১৮৬১"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Stage-Carriages Act, 1861",
+        "official_index_year": "1861",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-13.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 11,
+      "submitted": {
+        "year": 1865,
+        "era": "British Era",
+        "category": "Commercial & Transport",
+        "title_en": "The Carriers Act, 1865",
+        "title_bn": "পণ্য পরিবহনকারী আইন, ১৮৬৫"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Carriers Act, 1865",
+        "official_index_year": "1865",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-15.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 12,
+      "submitted": {
+        "year": 1867,
+        "era": "British Era",
+        "category": "Criminal Law",
+        "title_en": "The Public Gambling Act, 1867",
+        "title_bn": "প্রকাশ্য জুয়া আইন, ১৮৬৭"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Public Gambling Act, 1867 [Repealed]",
+        "official_index_year": "1867",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-16.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": true,
+        "note": null
+      }
+    },
+    {
+      "id": 13,
+      "submitted": {
+        "year": 1867,
+        "era": "British Era",
+        "category": "Media & Press",
+        "title_en": "The Press and Registration of Books Act, 1867",
+        "title_bn": "ছাপাখানা ও বই নিবন্ধন আইন, ১৮৬৭"
+      },
+      "verification": {
+        "review_status": "not_confirmed",
+        "official_lookup_url": "https://bdlaws.minlaw.gov.bd/laws-of-bangladesh.html",
+        "note": "The submitted 1867 title was not located in the current official index; a 1973 printing-press law covers a related subject."
+      }
+    },
+    {
+      "id": 14,
+      "submitted": {
+        "year": 1869,
+        "era": "British Era",
+        "category": "Family Law",
+        "title_en": "The Divorce Act, 1869",
+        "title_bn": "খ্রিষ্টান বিবাহবিচ্ছেদ আইন, ১৮৬৯"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Divorce Act, 1869",
+        "official_index_year": "1869",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-20.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 15,
+      "submitted": {
+        "year": 1870,
+        "era": "British Era",
+        "category": "Judiciary & Procedure",
+        "title_en": "The Court-fees Act, 1870",
+        "title_bn": "কোর্ট ফি আইন, ১৮৭০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Court-fees Act, 1870",
+        "official_index_year": "1870",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-21.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 16,
+      "submitted": {
+        "year": 1871,
+        "era": "British Era",
+        "category": "Agriculture & Local",
+        "title_en": "The Cattle-trespass Act, 1871",
+        "title_bn": "গবাদি পশু অনধিকার প্রবেশ আইন, ১৮৭১"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Cattle-trespass Act, 1871",
+        "official_index_year": "1871",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-22.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 17,
+      "submitted": {
+        "year": 1871,
+        "era": "British Era",
+        "category": "Service & Pension",
+        "title_en": "The Pensions Act, 1871",
+        "title_bn": "পেনশন আইন, ১৮৭১"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Pensions Act, 1871",
+        "official_index_year": "1871",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-23.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 18,
+      "submitted": {
+        "year": 1872,
+        "era": "British Era",
+        "category": "Judiciary & Procedure",
+        "title_en": "The Evidence Act, 1872",
+        "title_bn": "সাক্ষ্য আইন, ১৮৭২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Evidence Act, 1872",
+        "official_index_year": "1872",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-24.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 19,
+      "submitted": {
+        "year": 1872,
+        "era": "British Era",
+        "category": "Family Law",
+        "title_en": "The Special Marriage Act, 1872",
+        "title_bn": "বিশেষ বিবাহ আইন, ১৮৭২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Special Marriage Act, 1872",
+        "official_index_year": "1872",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-25.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 20,
+      "submitted": {
+        "year": 1872,
+        "era": "British Era",
+        "category": "Commercial & Contract",
+        "title_en": "The Contract Act, 1872",
+        "title_bn": "চুক্তি আইন, ১৮৭২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Contract Act, 1872",
+        "official_index_year": "1872",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-26.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 21,
+      "submitted": {
+        "year": 1872,
+        "era": "British Era",
+        "category": "Family Law",
+        "title_en": "The Christian Marriage Act, 1872",
+        "title_bn": "খ্রিষ্টান বিবাহ আইন, ১৮৭২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Christian Marriage Act, 1872",
+        "official_index_year": "1872",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-27.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 22,
+      "submitted": {
+        "year": 1873,
+        "era": "British Era",
+        "category": "Banking & Finance",
+        "title_en": "The Government Savings Banks Act, 1873",
+        "title_bn": "সরকারি সেভিংস ব্যাংক আইন, ১৮৭৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Government Savings Banks Act, 1873",
+        "official_index_year": "1873",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-28.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 23,
+      "submitted": {
+        "year": 1873,
+        "era": "British Era",
+        "category": "Judiciary & Procedure",
+        "title_en": "The Oaths Act, 1873",
+        "title_bn": "শপথ আইন, ১৮৭৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Oaths Act, 1873",
+        "official_index_year": "1873",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-29.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 24,
+      "submitted": {
+        "year": 1874,
+        "era": "British Era",
+        "category": "Family & Property",
+        "title_en": "The Married Women's Property Act, 1874",
+        "title_bn": "বিবাহিত নারীদের সম্পত্তি আইন, ১৮৭৪"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Married Women's Property Act, 1874",
+        "official_index_year": "1874",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-30.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 25,
+      "submitted": {
+        "year": 1875,
+        "era": "British Era",
+        "category": "Civil & Personal",
+        "title_en": "The Majority Act, 1875",
+        "title_bn": "সাবালকত্ব আইন, ১৮৭৫"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Majority Act, 1875",
+        "official_index_year": "1875",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-33.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 26,
+      "submitted": {
+        "year": 1876,
+        "era": "British Era",
+        "category": "Culture & Media",
+        "title_en": "The Dramatic Performances Act, 1876",
+        "title_bn": "নাট্য প্রদর্শনী আইন, ১৮৭৬"
+      },
+      "verification": {
+        "review_status": "not_confirmed",
+        "official_lookup_url": "https://bdlaws.minlaw.gov.bd/laws-of-bangladesh.html",
+        "note": "The submitted 1876 Act was not located in the current official index; a 2001 repeal Act is listed."
+      }
+    },
+    {
+      "id": 27,
+      "submitted": {
+        "year": 1877,
+        "era": "British Era",
+        "category": "Civil & Property",
+        "title_en": "The Specific Relief Act, 1877",
+        "title_bn": "সুনির্দিষ্ট প্রতিকার আইন, ১৮৭৭"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Specific Relief Act, 1877",
+        "official_index_year": "1877",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-36.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 28,
+      "submitted": {
+        "year": 1878,
+        "era": "British Era",
+        "category": "Criminal & Security",
+        "title_en": "The Arms Act, 1878",
+        "title_bn": "অস্ত্র আইন, ১৮৭৮"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Arms Act, 1878",
+        "official_index_year": "1878",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-38.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 29,
+      "submitted": {
+        "year": 1878,
+        "era": "British Era",
+        "category": "Heritage & Property",
+        "title_en": "The Treasure-trove Act, 1878",
+        "title_bn": "গুপ্তধন আইন, ১৮৭৮"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Treasure-Trove Act, 1878",
+        "official_index_year": "1878",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-37.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 30,
+      "submitted": {
+        "year": 1878,
+        "era": "British Era",
+        "category": "Transport",
+        "title_en": "The Ferries Act, 1878",
+        "title_bn": "ফেরি আইন, ১৮৭৮"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Ferries Act, 1885",
+        "official_index_year": "1885",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-54.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": "Submitted year 1878 differs from the official title year 1885."
+      }
+    },
+    {
+      "id": 31,
+      "submitted": {
+        "year": 1879,
+        "era": "British Era",
+        "category": "Judiciary",
+        "title_en": "The Legal Practitioners Act, 1879",
+        "title_bn": "আইন পেশাজীবী আইন, ১৮৭৯"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Touts Act, 1879",
+        "official_index_year": "1879",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-40.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": "The current official index lists this as The Touts Act, 1879."
+      }
+    },
+    {
+      "id": 32,
+      "submitted": {
+        "year": 1879,
+        "era": "British Era",
+        "category": "Judiciary",
+        "title_en": "The Tout Act, 1879",
+        "title_bn": "টাউট আইন, ১৮৭৯"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Touts Act, 1879",
+        "official_index_year": "1879",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-40.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 33,
+      "submitted": {
+        "year": 1880,
+        "era": "British Era",
+        "category": "Family Law",
+        "title_en": "The Kazis Act, 1880",
+        "title_bn": "কাজী আইন, ১৮৮০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Kazis Act, 1880",
+        "official_index_year": "1880",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-43.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 34,
+      "submitted": {
+        "year": 1881,
+        "era": "British Era",
+        "category": "Tax & Local Govt",
+        "title_en": "The Municipal Taxation Act, 1881",
+        "title_bn": "পৌর কর আইন, ১৮৮১"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Municipal Taxation Act, 1881",
+        "official_index_year": "1881",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-44.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 35,
+      "submitted": {
+        "year": 1881,
+        "era": "British Era",
+        "category": "Banking & Commercial",
+        "title_en": "The Negotiable Instruments Act, 1881",
+        "title_bn": "হস্তান্তরযোগ্য দলিল আইন, ১৮৮১ (এনআই অ্যাক্ট)"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Negotiable Instruments Act, 1881",
+        "official_index_year": "1881",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-46.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 36,
+      "submitted": {
+        "year": 1882,
+        "era": "British Era",
+        "category": "Property & Trust",
+        "title_en": "The Trusts Act, 1882",
+        "title_bn": "ট্রাস্ট আইন, ১৮৮২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Trusts Act, 1882",
+        "official_index_year": "1882",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-47.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 37,
+      "submitted": {
+        "year": 1882,
+        "era": "British Era",
+        "category": "Land & Property",
+        "title_en": "The Transfer of Property Act, 1882",
+        "title_bn": "সম্পত্তি হস্তান্তর আইন, ১৮৮২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Transfer of Property Act, 1882",
+        "official_index_year": "1882",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-48.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 38,
+      "submitted": {
+        "year": 1882,
+        "era": "British Era",
+        "category": "Land & Property",
+        "title_en": "The Easements Act, 1882",
+        "title_bn": "সুখাধিকার আইন, ১৮৮২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Easements Act, 1882",
+        "official_index_year": "1882",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-49.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 39,
+      "submitted": {
+        "year": 1884,
+        "era": "British Era",
+        "category": "Criminal & Security",
+        "title_en": "The Explosives Act, 1884",
+        "title_bn": "বিস্ফোরক আইন, ১৮৮৪"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Explosives Act, 1884",
+        "official_index_year": "1884",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-52.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 40,
+      "submitted": {
+        "year": 1885,
+        "era": "British Era",
+        "category": "Land & Property",
+        "title_en": "The Bengal Tenancy Act, 1885",
+        "title_bn": "বঙ্গীয় প্রজাস্বত্ব আইন, ১৮৮৫"
+      },
+      "verification": {
+        "review_status": "not_confirmed",
+        "official_lookup_url": "https://bdlaws.minlaw.gov.bd/laws-of-bangladesh.html",
+        "note": "The 1885 Bengal Tenancy Act is referenced in later official law, but no current individual entry was located in the checked index."
+      }
+    },
+    {
+      "id": 41,
+      "submitted": {
+        "year": 1885,
+        "era": "British Era",
+        "category": "Telecom",
+        "title_en": "The Telegraph Act, 1885",
+        "title_bn": "টেলিগ্রাফ আইন, ১৮৮৫"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Telegraph Act, 1885",
+        "official_index_year": "1885",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-55.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 42,
+      "submitted": {
+        "year": 1887,
+        "era": "British Era",
+        "category": "Judiciary & Procedure",
+        "title_en": "The Suits Valuation Act, 1887",
+        "title_bn": "মামলার মূল্যমান নির্ধারণ আইন, ১৮৮৭"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Suits Valuation Act, 1887",
+        "official_index_year": "1887",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-57.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 43,
+      "submitted": {
+        "year": 1887,
+        "era": "British Era",
+        "category": "Judiciary",
+        "title_en": "The Civil Courts Act, 1887",
+        "title_bn": "দেওয়ানি আদালত আইন, ১৮৮৭"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Civil Courts Act, 1887",
+        "official_index_year": "1887",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-59.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 44,
+      "submitted": {
+        "year": 1887,
+        "era": "British Era",
+        "category": "Judiciary",
+        "title_en": "The Provincial Small Cause Courts Act, 1887",
+        "title_bn": "স্বল্পমূল্যের দেওয়ানি দাবি আদালত আইন, ১৮৮৭"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Small Cause Courts Act, 1887",
+        "official_index_year": "1887",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-58.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 45,
+      "submitted": {
+        "year": 1889,
+        "era": "British Era",
+        "category": "Commercial",
+        "title_en": "The Merchandise Marks Act, 1889",
+        "title_bn": "পণ্যচিহ্ন আইন, ১৮৮৯"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Merchandise Marks Act, 1889 [Repealed]",
+        "official_index_year": "1889",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-62.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": true,
+        "note": null
+      }
+    },
+    {
+      "id": 46,
+      "submitted": {
+        "year": 1890,
+        "era": "British Era",
+        "category": "Family Law",
+        "title_en": "The Guardians and Wards Act, 1890",
+        "title_bn": "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Guardians and Wards Act, 1890",
+        "official_index_year": "1890",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-64.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 47,
+      "submitted": {
+        "year": 1890,
+        "era": "British Era",
+        "category": "Transport",
+        "title_en": "The Railways Act, 1890",
+        "title_bn": "রেলওয়ে আইন, ১৮৯০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Railways Act, 1890",
+        "official_index_year": "1890",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-65.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 48,
+      "submitted": {
+        "year": 1890,
+        "era": "British Era",
+        "category": "Animal Welfare",
+        "title_en": "The Prevention of Cruelty to Animals Act, 1890",
+        "title_bn": "প্রাণীর প্রতি নিষ্ঠুরতা প্রতিরোধ আইন, ১৮৯০"
+      },
+      "verification": {
+        "review_status": "not_confirmed",
+        "official_lookup_url": "https://bdlaws.minlaw.gov.bd/laws-of-bangladesh.html",
+        "note": "The submitted 1890 title was not located; an official Cruelty to Animals Act is dated 1920."
+      }
+    },
+    {
+      "id": 49,
+      "submitted": {
+        "year": 1891,
+        "era": "British Era",
+        "category": "Banking & Evidence",
+        "title_en": "The Bankers' Books Evidence Act, 1891",
+        "title_bn": "ব্যাংকার বহি সাক্ষ্য আইন, ১৮৯১"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Bankers' Book Evidence Act, 1891 [Repealed]",
+        "official_index_year": "1891",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-67.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": true,
+        "note": null
+      }
+    },
+    {
+      "id": 50,
+      "submitted": {
+        "year": 1893,
+        "era": "British Era",
+        "category": "Land & Property",
+        "title_en": "The Partition Act, 1893",
+        "title_bn": "বাটোয়ারা আইন, ১৮৯৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Partition Act, 1893",
+        "official_index_year": "1893",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-68.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 51,
+      "submitted": {
+        "year": 1894,
+        "era": "British Era",
+        "category": "Prisons & Criminal",
+        "title_en": "The Prisons Act, 1894",
+        "title_bn": "কারা আইন, ১৮৯৪"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Prisons Act, 1894",
+        "official_index_year": "1894",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-69.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 52,
+      "submitted": {
+        "year": 1897,
+        "era": "British Era",
+        "category": "Statutory Interpretation",
+        "title_en": "The General Clauses Act, 1897",
+        "title_bn": "জেনারেল ক্লজেস অ্যাক্ট, ১৮৯৭"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The General Clauses Act, 1897",
+        "official_index_year": "1897",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-73.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 53,
+      "submitted": {
+        "year": 1898,
+        "era": "British Era",
+        "category": "Criminal Procedure",
+        "title_en": "The Code of Criminal Procedure, 1898 (CrPC)",
+        "title_bn": "ফৌজদারি কার্যবিধি, ১৮৯৮"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Code of Criminal Procedure, 1898",
+        "official_index_year": "1898",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-75.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 54,
+      "submitted": {
+        "year": 1898,
+        "era": "British Era",
+        "category": "Communication",
+        "title_en": "The Post Office Act, 1898",
+        "title_bn": "ডাকঘর আইন, ১৮৯৮"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Post Office Act, 1898",
+        "official_index_year": "1898",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-76.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 55,
+      "submitted": {
+        "year": 1899,
+        "era": "British Era",
+        "category": "Revenue & Deeds",
+        "title_en": "The Stamp Act, 1899",
+        "title_bn": "স্ট্যাম্প আইন, ১৮৯৯"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Stamp Act, 1899",
+        "official_index_year": "1899",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-77.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 56,
+      "submitted": {
+        "year": 1900,
+        "era": "British Era",
+        "category": "Prisons & Criminal",
+        "title_en": "The Prisoners Act, 1900",
+        "title_bn": "বন্দি আইন, ১৯০০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Prisoners Act, 1900",
+        "official_index_year": "1900",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-80.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 57,
+      "submitted": {
+        "year": 1901,
+        "era": "British Era",
+        "category": "Transport & Revenue",
+        "title_en": "The Tolls Act, 1901",
+        "title_bn": "টোল আইন, ১৯০১"
+      },
+      "verification": {
+        "review_status": "not_confirmed",
+        "official_lookup_url": "https://bdlaws.minlaw.gov.bd/laws-of-bangladesh.html",
+        "note": "The official index lists The Tolls Act, 1851 and The Tolls (Army and Air-Force) Act, 1901; the submitted title/year combination is ambiguous."
+      }
+    },
+    {
+      "id": 58,
+      "submitted": {
+        "year": 1908,
+        "era": "British Era",
+        "category": "Criminal & Security",
+        "title_en": "The Explosive Substances Act, 1908",
+        "title_bn": "বিস্ফোরক পদার্থ আইন, ১৯০৮"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Explosive Substances Act, 1908",
+        "official_index_year": "1908",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-87.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 59,
+      "submitted": {
+        "year": 1908,
+        "era": "British Era",
+        "category": "Civil Procedure",
+        "title_en": "The Code of Civil Procedure, 1908 (CPC)",
+        "title_bn": "দেওয়ানি কার্যবিধি, ১৯০৮"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Code of Civil Procedure, 1908",
+        "official_index_year": "1908",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-86.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 60,
+      "submitted": {
+        "year": 1908,
+        "era": "British Era",
+        "category": "Judiciary & Procedure",
+        "title_en": "The Limitation Act, 1908",
+        "title_bn": "তামাদি আইন, ১৯০৮"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Limitation Act, 1908",
+        "official_index_year": "1908",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-88.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 61,
+      "submitted": {
+        "year": 1908,
+        "era": "British Era",
+        "category": "Land & Property",
+        "title_en": "The Registration Act, 1908",
+        "title_bn": "রেজিস্ট্রেশন আইন, ১৯০৮"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Registration Act, 1908",
+        "official_index_year": "1908",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-90.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 62,
+      "submitted": {
+        "year": 1913,
+        "era": "British Era",
+        "category": "Revenue & Recovery",
+        "title_en": "The Public Demands Recovery Act, 1913 (PDR Act)",
+        "title_bn": "সরকারি পাওনা আদায় আইন, ১৯১৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Public Demands Recovery Act, 1913 (Bengal Act)",
+        "official_index_year": "1913",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-98.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 63,
+      "submitted": {
+        "year": 1913,
+        "era": "British Era",
+        "category": "Religious & Property",
+        "title_en": "The Mussalman Wakf Validating Act, 1913",
+        "title_bn": "মুসলমান ওয়াকফ বৈধকরণ আইন, ১৯১৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Mussalman Wakf Validating Act, 1913",
+        "official_index_year": "1913",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-101.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 64,
+      "submitted": {
+        "year": 1914,
+        "era": "British Era",
+        "category": "Local Govt & Finance",
+        "title_en": "The Local Authorities Loans Act, 1914",
+        "title_bn": "স্থানীয় কর্তৃপক্ষ ঋণ আইন, ১৯১৪"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Local Authorities Loans Act, 1914",
+        "official_index_year": "1914",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-103.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 65,
+      "submitted": {
+        "year": 1918,
+        "era": "British Era",
+        "category": "Media & Entertainment",
+        "title_en": "The Cinematograph Act, 1918",
+        "title_bn": "সিনেমাটোগ্রাফ আইন, ১৯১৮"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Cinematograph Act, 1918",
+        "official_index_year": "1918",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-108.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 66,
+      "submitted": {
+        "year": 1919,
+        "era": "British Era",
+        "category": "Public Health & Safety",
+        "title_en": "The Poisons Act, 1919",
+        "title_bn": "বিষ আইন, ১৯১৯"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Poisons Act, 1919",
+        "official_index_year": "1919",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-114.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 67,
+      "submitted": {
+        "year": 1920,
+        "era": "British Era",
+        "category": "Prisons & Criminal",
+        "title_en": "The Identification of Prisoners Act, 1920",
+        "title_bn": "বন্দি শনাক্তকরণ আইন, ১৯২০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Identification of Prisoners Act, 1920",
+        "official_index_year": "1920",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-120.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 68,
+      "submitted": {
+        "year": 1920,
+        "era": "British Era",
+        "category": "Immigration & Travel",
+        "title_en": "The Passport Act, 1920",
+        "title_bn": "পাসপোর্ট আইন, ১৯২০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Passport Act, 1920",
+        "official_index_year": "1920",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-121.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 69,
+      "submitted": {
+        "year": 1920,
+        "era": "British Era",
+        "category": "Trusts & Charity",
+        "title_en": "The Charitable and Religious Trusts Act, 1920",
+        "title_bn": "দাতব্য ও ধর্মীয় ট্রাস্ট আইন, ১৯২০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Charitable and Religious Trusts Act, 1920",
+        "official_index_year": "1920",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-119.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 70,
+      "submitted": {
+        "year": 1923,
+        "era": "British Era",
+        "category": "National Security",
+        "title_en": "The Official Secrets Act, 1923",
+        "title_bn": "অফিসিয়াল সিক্রেটস অ্যাক্ট, ১৯২৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Official Secrets Act, 1923",
+        "official_index_year": "1923",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-132.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 71,
+      "submitted": {
+        "year": 1923,
+        "era": "British Era",
+        "category": "Energy & Mining",
+        "title_en": "The Mines Act, 1923",
+        "title_bn": "খনি আইন, ১৯২৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Mines Act, 1923",
+        "official_index_year": "1923",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-126.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 72,
+      "submitted": {
+        "year": 1923,
+        "era": "British Era",
+        "category": "Industrial Safety",
+        "title_en": "The Boilers Act, 1923",
+        "title_bn": "বয়লার আইন, ১৯২৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Boilers Act, 1923 [Repealed]",
+        "official_index_year": "1923",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-127.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": true,
+        "note": null
+      }
+    },
+    {
+      "id": 73,
+      "submitted": {
+        "year": 1924,
+        "era": "British Era",
+        "category": "Defense & Local",
+        "title_en": "The Cantonments Act, 1924",
+        "title_bn": "সেনানিবাস আইন, ১৯২৪"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Cantonments Act, 1924 [Repealed]",
+        "official_index_year": "1924",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-133.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": true,
+        "note": null
+      }
+    },
+    {
+      "id": 74,
+      "submitted": {
+        "year": 1925,
+        "era": "British Era",
+        "category": "Maritime & Trade",
+        "title_en": "The Carriage of Goods by Sea Act, 1925",
+        "title_bn": "সমুদ্রপথে পণ্য পরিবহন আইন, ১৯২৫"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Carriage of Goods by Sea Act, 1925",
+        "official_index_year": "1925",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-137.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 75,
+      "submitted": {
+        "year": 1925,
+        "era": "British Era",
+        "category": "Labour & Service",
+        "title_en": "The Provident Funds Act, 1925",
+        "title_bn": "প্রভিডেন্ট ফান্ড আইন, ১৯২৫"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Provident Funds Act, 1925",
+        "official_index_year": "1925",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-136.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 76,
+      "submitted": {
+        "year": 1925,
+        "era": "British Era",
+        "category": "Inheritance & Property",
+        "title_en": "The Succession Act, 1925",
+        "title_bn": "উত্তরাধিকার আইন, ১৯২৫"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Succession Act, 1925",
+        "official_index_year": "1925",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-138.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 77,
+      "submitted": {
+        "year": 1927,
+        "era": "British Era",
+        "category": "Environment & Forest",
+        "title_en": "The Forest Act, 1927",
+        "title_bn": "বন আইন, ১৯২৭"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Forest Act, 1927",
+        "official_index_year": "1927",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-144.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 78,
+      "submitted": {
+        "year": 1928,
+        "era": "British Era",
+        "category": "Family & Inheritance",
+        "title_en": "The Hindu Inheritance (Removal of Disabilities) Act, 1928",
+        "title_bn": "হিন্দু উত্তরাধিকার (অক্ষমতা দূরীকরণ) আইন, ১৯২৮"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Hindu Inheritance (Removal of Disabilities) Act, 1928",
+        "official_index_year": "1928",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-147.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 79,
+      "submitted": {
+        "year": 1929,
+        "era": "British Era",
+        "category": "Family Law",
+        "title_en": "The Child Marriage Restraint Act, 1929",
+        "title_bn": "বাল্যবিবাহ নিরোধ আইন, ১৯২৯"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Child Marriage Restraint Act, 1929 [Repealed]",
+        "official_index_year": "1929",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-149.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": true,
+        "note": null
+      }
+    },
+    {
+      "id": 80,
+      "submitted": {
+        "year": 1930,
+        "era": "British Era",
+        "category": "Commercial & Trade",
+        "title_en": "The Sale of Goods Act, 1930",
+        "title_bn": "পণ্য বিক্রয় আইন, ১৯৩০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Sale of Goods Act, 1930",
+        "official_index_year": "1930",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-150.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 81,
+      "submitted": {
+        "year": 1932,
+        "era": "British Era",
+        "category": "Corporate & Business",
+        "title_en": "The Partnership Act, 1932",
+        "title_bn": "অংশীদারি আইন, ১৯৩২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Partnership Act, 1932",
+        "official_index_year": "1932",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-157.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 82,
+      "submitted": {
+        "year": 1933,
+        "era": "British Era",
+        "category": "Telecom",
+        "title_en": "The Wireless Telegraphy Act, 1933",
+        "title_bn": "ওয়্যারলেস টেলিগ্রাফি আইন, ১৯৩৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Wireless Telegraphy Act, 1933",
+        "official_index_year": "1933",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-162.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 83,
+      "submitted": {
+        "year": 1934,
+        "era": "British Era",
+        "category": "Energy & Resources",
+        "title_en": "The Petroleum Act, 1934",
+        "title_bn": "পেট্রোলিয়াম আইন, ১৯৩৪"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Petroleum Act, 1934 [Repealed]",
+        "official_index_year": "1934",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-166.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": true,
+        "note": null
+      }
+    },
+    {
+      "id": 84,
+      "submitted": {
+        "year": 1934,
+        "era": "British Era",
+        "category": "Labour",
+        "title_en": "The Dock Labourers Act, 1934",
+        "title_bn": "ডক শ্রমিক আইন, ১৯৩৪"
+      },
+      "verification": {
+        "review_status": "not_confirmed",
+        "official_lookup_url": "https://bdlaws.minlaw.gov.bd/laws-of-bangladesh.html",
+        "note": "No individual 1934 Dock Labourers Act entry was located in the checked official index."
+      }
+    },
+    {
+      "id": 85,
+      "submitted": {
+        "year": 1936,
+        "era": "British Era",
+        "category": "Agriculture & Debt",
+        "title_en": "The Agricultural Debtors Act, 1936",
+        "title_bn": "কৃষি ঋণগ্রহীতা আইন, ১৯৩৬"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Agricultural Debtors Act, 1935",
+        "official_index_year": "1936",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-169.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": "The official title says 1935 while the official chronological index places the Act under 1936; the submitted title/year use 1936."
+      }
+    },
+    {
+      "id": 86,
+      "submitted": {
+        "year": 1936,
+        "era": "British Era",
+        "category": "Labour",
+        "title_en": "The Payment of Wages Act, 1936",
+        "title_bn": "মজুরি পরিশোধ আইন, ১৯৩৬"
+      },
+      "verification": {
+        "review_status": "not_confirmed",
+        "official_lookup_url": "https://bdlaws.minlaw.gov.bd/laws-of-bangladesh.html",
+        "note": "No individual 1936 Payment of Wages Act entry was located in the checked official index."
+      }
+    },
+    {
+      "id": 87,
+      "submitted": {
+        "year": 1937,
+        "era": "British Era",
+        "category": "Family Law",
+        "title_en": "The Muslim Personal Law (Shariat) Application Act, 1937",
+        "title_bn": "মুসলিম ব্যক্তিগত আইন (শরিয়ত) প্রয়োগ আইন, ১৯৩৭"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Muslim Personal Law (Shariat) Application Act, 1937",
+        "official_index_year": "1937",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-173.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 88,
+      "submitted": {
+        "year": 1937,
+        "era": "British Era",
+        "category": "Family & Inheritance",
+        "title_en": "The Hindu Women's Rights to Property Act, 1937",
+        "title_bn": "হিন্দু নারীদের সম্পত্তির অধিকার আইন, ১৯৩৭"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Hindu Women's Rights to Property Act, 1937",
+        "official_index_year": "1937",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-171.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 89,
+      "submitted": {
+        "year": 1937,
+        "era": "British Era",
+        "category": "Family Law",
+        "title_en": "The Arya Marriage Validation Act, 1937",
+        "title_bn": "আর্য বিবাহ বৈধকরণ আইন, ১৯৩৭"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Arya Marriage Validation Act, 1937",
+        "official_index_year": "1937",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-172.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 90,
+      "submitted": {
+        "year": 1939,
+        "era": "British Era",
+        "category": "Family Law",
+        "title_en": "The Dissolution of Muslim Marriages Act, 1939",
+        "title_bn": "মুসলিম বিবাহ বিচ্ছেদ আইন, ১৯৩৯"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Dissolution of Muslim Marriages Act, 1939",
+        "official_index_year": "1939",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-180.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 91,
+      "submitted": {
+        "year": 1939,
+        "era": "British Era",
+        "category": "Immigration",
+        "title_en": "The Registration of Foreigners Act, 1939",
+        "title_bn": "বিদেশি নাগরিক নিবন্ধন আইন, ১৯৩৯"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Registration of Foreigners Act, 1939",
+        "official_index_year": "1939",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-182.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 92,
+      "submitted": {
+        "year": 1939,
+        "era": "British Era",
+        "category": "Transport",
+        "title_en": "The Motor Vehicles Act, 1939",
+        "title_bn": "মোটরযান আইন, ১৯৩৯"
+      },
+      "verification": {
+        "review_status": "not_confirmed",
+        "official_lookup_url": "https://bdlaws.minlaw.gov.bd/laws-of-bangladesh.html",
+        "note": "No individual Motor Vehicles Act, 1939 entry was located; later road transport legislation should be consulted."
+      }
+    },
+    {
+      "id": 93,
+      "submitted": {
+        "year": 1940,
+        "era": "British Era",
+        "category": "Health & Pharma",
+        "title_en": "The Drugs Act, 1940",
+        "title_bn": "ঔষধ আইন, ১৯৪০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Drugs Act, 1940 [Repealed]",
+        "official_index_year": "1940",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-188.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": true,
+        "note": null
+      }
+    },
+    {
+      "id": 94,
+      "submitted": {
+        "year": 1940,
+        "era": "British Era",
+        "category": "Agriculture & Market",
+        "title_en": "The Agricultural Produce Markets Regulation Act, 1940",
+        "title_bn": "কৃষিপণ্য বাজার নিয়ন্ত্রণ আইন, ১৯৪০"
+      },
+      "verification": {
+        "review_status": "not_confirmed",
+        "official_lookup_url": "https://bdlaws.minlaw.gov.bd/laws-of-bangladesh.html",
+        "note": "No individual 1940 Agricultural Produce Markets Regulation Act entry was located in the checked official index."
+      }
+    },
+    {
+      "id": 95,
+      "submitted": {
+        "year": 1944,
+        "era": "British Era",
+        "category": "Public Health",
+        "title_en": "The Public Health (Emergency Provisions) Ordinance, 1944",
+        "title_bn": "জনস্বাস্থ্য (জরুরি বিধান) অধ্যাদেশ, ১৯৪৪"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Public Health (Emergency Provisions) Ordinance, 1944 [Repealed]",
+        "official_index_year": "1944",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-210.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": true,
+        "note": null
+      }
+    },
+    {
+      "id": 96,
+      "submitted": {
+        "year": 1944,
+        "era": "British Era",
+        "category": "Revenue & Tax",
+        "title_en": "The Excise and Salt Act, 1944",
+        "title_bn": "আবগারি ও লবণ আইন, ১৯৪৪"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Excises and Salt Act, 1944",
+        "official_index_year": "1944",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-206.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 97,
+      "submitted": {
+        "year": 1946,
+        "era": "British Era",
+        "category": "Immigration",
+        "title_en": "The Foreigners Act, 1946",
+        "title_bn": "বিদেশি সংক্রান্ত আইন, ১৯৪৬"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Foreigners Act, 1946",
+        "official_index_year": "1946",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-216.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 98,
+      "submitted": {
+        "year": 1946,
+        "era": "British Era",
+        "category": "Family Law",
+        "title_en": "The Hindu Married Women's Right to Separate Residence and Maintenance Act, 1946",
+        "title_bn": "হিন্দু বিবাহিত নারীদের পৃথক বাসস্থান ও ভরণপোষণ অধিকার আইন, ১৯৪৬"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Hindu Married Women's Right to Separate Residence and Maintenance Act, 1946",
+        "official_index_year": "1946",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-214.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 99,
+      "submitted": {
+        "year": 1947,
+        "era": "British Era",
+        "category": "Anti-Corruption",
+        "title_en": "The Prevention of Corruption Act, 1947",
+        "title_bn": "দুর্নীতি প্রতিরোধ আইন, ১৯৪৭"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Prevention of Corruption Act, 1947",
+        "official_index_year": "1947",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-217.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 100,
+      "submitted": {
+        "year": 1947,
+        "era": "British Era",
+        "category": "Banking & Finance",
+        "title_en": "The Foreign Exchange Regulation Act, 1947 (FERA)",
+        "title_bn": "বৈদেশিক মুদ্রা নিয়ন্ত্রণ আইন, ১৯৪৭"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Foreign Exchange Regulation Act, 1947",
+        "official_index_year": "1947",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-218.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 101,
+      "submitted": {
+        "year": 1948,
+        "era": "Pakistan Era",
+        "category": "Administrative",
+        "title_en": "The Essential Personnel (Registration) Ordinance, 1948",
+        "title_bn": "অত্যাবশ্যকীয় কর্মী (নিবন্ধন) অধ্যাদেশ, ১৯৪৮"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Essential Personnel (Registration) Ordinance, 1948",
+        "official_index_year": "1948",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-230.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 102,
+      "submitted": {
+        "year": 1949,
+        "era": "Pakistan Era",
+        "category": "Land & Property",
+        "title_en": "The Non-Agricultural Tenancy Act, 1949",
+        "title_bn": "অ-কৃষি প্রজাস্বত্ব আইন, ১৯৪৯"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Non-Agricultural Tenancy Act, 1949",
+        "official_index_year": "1949",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2023-12-11-15-23-49-248.-THE-EAST-BENGAL-NON-AGRICULTURAL-TENANCY-ACT%2C-1949.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 103,
+      "submitted": {
+        "year": 1950,
+        "era": "Pakistan Era",
+        "category": "Fisheries & Environment",
+        "title_en": "The Protection and Conservation of Fish Act, 1950",
+        "title_bn": "মৎস্য রক্ষা ও সংরক্ষণ আইন, ১৯৫০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Protection and Conservation of Fish Act, 1950",
+        "official_index_year": "1950",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2023-12-11-15-25-55-250.-Protection-and-Conservation-of-Fish.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 104,
+      "submitted": {
+        "year": 1950,
+        "era": "Pakistan Era",
+        "category": "Land & Property",
+        "title_en": "The State Acquisition and Tenancy Act, 1950 (SAT Act)",
+        "title_bn": "রাষ্ট্রীয় অধিগ্রহণ ও প্রজাস্বত্ব আইন, ১৯৫০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The State Acquisition and Tenancy Act, 1950",
+        "official_index_year": "1950",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2023-12-11-15-38-56-259.-Act-No.-XXVIII_1951_1983.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 105,
+      "submitted": {
+        "year": 1951,
+        "era": "Pakistan Era",
+        "category": "Constitutional & Citizenship",
+        "title_en": "The Citizenship Act, 1951",
+        "title_bn": "নাগরিকত্ব আইন, ১৯৫১"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Citizenship Act, 1951",
+        "official_index_year": "1951",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-242.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 106,
+      "submitted": {
+        "year": 1952,
+        "era": "Pakistan Era",
+        "category": "Immigration",
+        "title_en": "The Control of Entry Act, 1952",
+        "title_bn": "প্রবেশ নিয়ন্ত্রণ আইন, ১৯৫২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Control of Entry Act, 1952",
+        "official_index_year": "1952",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-251.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 107,
+      "submitted": {
+        "year": 1952,
+        "era": "Pakistan Era",
+        "category": "Defense",
+        "title_en": "The Army Act, 1952",
+        "title_bn": "সেনাবাহিনী আইন, ১৯৫২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Army Act, 1952",
+        "official_index_year": "1952",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-248.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 108,
+      "submitted": {
+        "year": 1952,
+        "era": "Pakistan Era",
+        "category": "Real Estate & Urban",
+        "title_en": "The Building Construction Act, 1952",
+        "title_bn": "ভবন নির্মাণ আইন, ১৯৫২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Building Construction Act, 1952 (East Bengal Act)",
+        "official_index_year": "1953",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-254.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 109,
+      "submitted": {
+        "year": 1952,
+        "era": "Pakistan Era",
+        "category": "Customs & Criminal",
+        "title_en": "The Prevention of Smuggling Act, 1952",
+        "title_bn": "চোরাচালান প্রতিরোধ আইন, ১৯৫২"
+      },
+      "verification": {
+        "review_status": "not_confirmed",
+        "official_lookup_url": "https://bdlaws.minlaw.gov.bd/laws-of-bangladesh.html",
+        "note": "No individual 1952 Prevention of Smuggling Act entry was located in the checked official index."
+      }
+    },
+    {
+      "id": 110,
+      "submitted": {
+        "year": 1953,
+        "era": "Pakistan Era",
+        "category": "Defense",
+        "title_en": "The Air Force Act, 1953",
+        "title_bn": "বিমানবাহিনী আইন, ১৯৫৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Air Force Act, 1953",
+        "official_index_year": "1953",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-256.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 111,
+      "submitted": {
+        "year": 1953,
+        "era": "Pakistan Era",
+        "category": "Real Estate & Urban",
+        "title_en": "The Town Improvement Act, 1953",
+        "title_bn": "নগর উন্নয়ন আইন, ১৯৫৩ (রাজউক আইন)"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Town Improvement Act, 1953",
+        "official_index_year": "1953",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2023-12-13-09-58-01-278.-The-Town-Improvement-Act%2C-1953_1965%2B1966_1987_fina_SH.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 112,
+      "submitted": {
+        "year": 1956,
+        "era": "Pakistan Era",
+        "category": "Commerce & Consumer",
+        "title_en": "The Essential Commodities Act, 1956",
+        "title_bn": "অত্যাবশ্যকীয় পণ্য আইন, ১৯৫৬"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Control of Essential Commodities Act, 1956 (East Pakistan Act)",
+        "official_index_year": "1956",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-262.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": "The official title includes 'Control of'."
+      }
+    },
+    {
+      "id": 113,
+      "submitted": {
+        "year": 1956,
+        "era": "Pakistan Era",
+        "category": "Food & Judiciary",
+        "title_en": "The Food (Special Courts) Act, 1956",
+        "title_bn": "খাদ্য (বিশেষ আদালত) আইন, ১৯৫৬"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Food (Special Courts) Act, 1956",
+        "official_index_year": "1956",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2023-12-13-12-16-09-292.-THE-EAST-PAKISTAN-FOOD-COURT.doc_1956_2000_fina_SH.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 114,
+      "submitted": {
+        "year": 1958,
+        "era": "Pakistan Era",
+        "category": "Corporate",
+        "title_en": "The Undesirable Companies Ordinance, 1958",
+        "title_bn": "অনাকাঙ্ক্ষিত কোম্পানি অধ্যাদেশ, ১৯৫৮"
+      },
+      "verification": {
+        "review_status": "not_confirmed",
+        "official_lookup_url": "https://bdlaws.minlaw.gov.bd/laws-of-bangladesh.html",
+        "note": "No reliable individual official match was established."
+      }
+    },
+    {
+      "id": 115,
+      "submitted": {
+        "year": 1958,
+        "era": "Pakistan Era",
+        "category": "Criminal Law",
+        "title_en": "The Criminal Law Amendment Act, 1958",
+        "title_bn": "ফৌজদারি আইন সংশোধন আইন, ১৯৫৮"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Criminal Law Amendment Act, 1958",
+        "official_index_year": "1958",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-277.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 116,
+      "submitted": {
+        "year": 1959,
+        "era": "Pakistan Era",
+        "category": "Food & Public Health",
+        "title_en": "The Pure Food Ordinance, 1959",
+        "title_bn": "বিশুদ্ধ খাদ্য অধ্যাদেশ, ১৯৫৯"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Pure Food Ordinance, 1959",
+        "official_index_year": "1959",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2020-11-09-13-24-01-325_5_THE_EAST_PAKISTAN_PURE_FOOD_ORDINANCE_1959_.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 117,
+      "submitted": {
+        "year": 1959,
+        "era": "Pakistan Era",
+        "category": "Administrative",
+        "title_en": "The Government Servants (Efficiency and Discipline) Rules / Ordinances",
+        "title_bn": "সরকারি কর্মচারী (দক্ষতা ও শৃঙ্খলা) বিধিমালা"
+      },
+      "verification": {
+        "review_status": "composite_entry",
+        "official_lookup_url": "https://bdlaws.minlaw.gov.bd/laws-of-bangladesh.html",
+        "note": "This combines rules and ordinances and does not identify one enactment."
+      }
+    },
+    {
+      "id": 118,
+      "submitted": {
+        "year": 1959,
+        "era": "Pakistan Era",
+        "category": "Administrative",
+        "title_en": "The Public Conduct (Scrutiny) Ordinance, 1959",
+        "title_bn": "সরকারি আচরণ (নিরীক্ষা) অধ্যাদেশ, ১৯৫৯"
+      },
+      "verification": {
+        "review_status": "not_confirmed",
+        "official_lookup_url": "https://bdlaws.minlaw.gov.bd/laws-of-bangladesh.html",
+        "note": "No individual 1959 Public Conduct (Scrutiny) Ordinance entry was located in the checked official index."
+      }
+    },
+    {
+      "id": 119,
+      "submitted": {
+        "year": 1960,
+        "era": "Pakistan Era",
+        "category": "Criminal & Probation",
+        "title_en": "The Probation of Offenders Ordinance, 1960",
+        "title_bn": "অপরাধীদের প্রবেশন অধ্যাদেশ, ১৯৬০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Probation of Offenders Ordinance, 1960",
+        "official_index_year": "1960",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-302.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 120,
+      "submitted": {
+        "year": 1960,
+        "era": "Pakistan Era",
+        "category": "Health",
+        "title_en": "The Eye Surgery (Restriction) Ordinance, 1960",
+        "title_bn": "চক্ষু অস্ত্রোপচার (নিয়ন্ত্রণ) অধ্যাদেশ, ১৯৬০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Eye Surgery (Restriction) Ordinance, 1960",
+        "official_index_year": "1960",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-304.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 121,
+      "submitted": {
+        "year": 1961,
+        "era": "Pakistan Era",
+        "category": "Family Law",
+        "title_en": "The Muslim Family Laws Ordinance, 1961 (MFLO)",
+        "title_bn": "মুসলিম পারিবারিক আইন অধ্যাদেশ, ১৯৬১"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Muslim Family Laws Ordinance, 1961",
+        "official_index_year": "1961",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-305.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 122,
+      "submitted": {
+        "year": 1961,
+        "era": "Pakistan Era",
+        "category": "NGO & Social Welfare",
+        "title_en": "The Voluntary Social Welfare Agencies (Registration and Control) Ordinance, 1961",
+        "title_bn": "স্বেচ্ছাসেবী সমাজকল্যাণ সংস্থা (নিবন্ধন ও নিয়ন্ত্রণ) অধ্যাদেশ, ১৯৬১"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Voluntary Social Welfare Agencies (Registration and Control) Ordinance, 1961",
+        "official_index_year": "1961",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2023-12-14-10-05-31-342.-THE-VOLUNTARY-SOCIAL-WELFARE-AGENCIES%2C-1961_2001_final-2.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 123,
+      "submitted": {
+        "year": 1961,
+        "era": "Pakistan Era",
+        "category": "Defense",
+        "title_en": "The Navy Ordinance, 1961",
+        "title_bn": "নৌবাহিনী অধ্যাদেশ, ১৯৬১"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Navy Ordinance, 1961",
+        "official_index_year": "1961",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-310.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 124,
+      "submitted": {
+        "year": 1961,
+        "era": "Pakistan Era",
+        "category": "Revenue",
+        "title_en": "The Stamp Duties (Additional Modes of Payment) Ordinance, 1961",
+        "title_bn": "স্ট্যাম্প ডিউটি (অতিরিক্ত পরিশোধ পদ্ধতি) অধ্যাদেশ, ১৯৬১"
+      },
+      "verification": {
+        "review_status": "not_confirmed",
+        "official_lookup_url": "https://bdlaws.minlaw.gov.bd/laws-of-bangladesh.html",
+        "note": "The checked index contains a similarly named 1974 Act, not the submitted 1961 Ordinance."
+      }
+    },
+    {
+      "id": 125,
+      "submitted": {
+        "year": 1961,
+        "era": "Pakistan Era",
+        "category": "Maritime & Ports",
+        "title_en": "The Ports Authorities Ordinances",
+        "title_bn": "বন্দর কর্তৃপক্ষ অধ্যাদেশসমূহ"
+      },
+      "verification": {
+        "review_status": "composite_entry",
+        "official_lookup_url": "https://bdlaws.minlaw.gov.bd/laws-of-bangladesh.html",
+        "note": "This is a plural umbrella description, not one identifiable ordinance."
+      }
+    },
+    {
+      "id": 126,
+      "submitted": {
+        "year": 1962,
+        "era": "Pakistan Era",
+        "category": "Religious & Property",
+        "title_en": "The Waqfs Ordinance, 1962",
+        "title_bn": "ওয়াকফ অধ্যাদেশ, ১৯৬২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Waqfs Ordinance, 1962",
+        "official_index_year": "1962",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2023-12-14-10-14-07-356.-THE-EAST-PAKISTAN-WAQFS-ORDINANCE%2C-1962_2001_final-25.12.2.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 127,
+      "submitted": {
+        "year": 1962,
+        "era": "Pakistan Era",
+        "category": "Health",
+        "title_en": "The Allopathic System (Prevention of Misuse) Ordinance, 1962",
+        "title_bn": "অ্যালোপ্যাথিক পদ্ধতি (অপব্যবহার রোধ) অধ্যাদেশ, ১৯৬২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Allopathic System (Prevention of Misuse) Ordinance, 1962",
+        "official_index_year": "1962",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2023-12-14-10-13-33-354.-THE-ALLOPATHIC-SYSTEM-Ordinance%2C-1962_2001_final_22.12.20.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 128,
+      "submitted": {
+        "year": 1962,
+        "era": "Pakistan Era",
+        "category": "Aviation",
+        "title_en": "The Civil Aviation Ordinance, 1960 / 1962",
+        "title_bn": "বেসামরিক বিমান চলাচল অধ্যাদেশ"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Civil Aviation Ordinance, 1960 [Repealed]",
+        "official_index_year": "1960",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-301.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": true,
+        "note": "Submitted year 1962 differs from the official title year 1960; the official index marks this ordinance as repealed."
+      }
+    },
+    {
+      "id": 129,
+      "submitted": {
+        "year": 1963,
+        "era": "Pakistan Era",
+        "category": "Media & Morality",
+        "title_en": "The Indecent Advertisements Prohibition Act, 1963",
+        "title_bn": "অশ্লীল বিজ্ঞাপন নিষিদ্ধকরণ আইন, ১৯৬৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Indecent Advertisements Prohibition Act, 1963",
+        "official_index_year": "1963",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2023-12-14-10-21-57-364.-THE-INDECENT-ADVERTISEMENTS-PROHIBITION_1963_2001_final_0.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 130,
+      "submitted": {
+        "year": 1963,
+        "era": "Pakistan Era",
+        "category": "Media & Entertainment",
+        "title_en": "The Censorship of Films Act, 1963",
+        "title_bn": "চলচ্চিত্র সেন্সরশিপ আইন, ১৯৬৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Censorship of Films Act, 1963",
+        "official_index_year": "1963",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2023-12-14-10-22-58-365.-THE-CENSORSHIP-OF-FILMS-ACT_1963_1982_final_09.01.2006.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 131,
+      "submitted": {
+        "year": 1968,
+        "era": "Pakistan Era",
+        "category": "Heritage & Culture",
+        "title_en": "The Antiquities Act, 1968",
+        "title_bn": "পুরাকীর্তি আইন, ১৯৬৮"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Antiquities Act, 1968",
+        "official_index_year": "1968",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-353.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 132,
+      "submitted": {
+        "year": 1968,
+        "era": "Pakistan Era",
+        "category": "Labour & Corporate",
+        "title_en": "The Companies Profits (Workers' Participation) Act, 1968",
+        "title_bn": "কোম্পানি মুনাফা (শ্রমিকদের অংশগ্রহণ) আইন, ১৯৬৮"
+      },
+      "verification": {
+        "review_status": "not_confirmed",
+        "official_lookup_url": "https://bdlaws.minlaw.gov.bd/laws-of-bangladesh.html",
+        "note": "No individual 1968 Companies Profits (Workers' Participation) Act entry was located in the checked current index; the 2006 Labour Act references older labour legislation."
+      }
+    },
+    {
+      "id": 133,
+      "submitted": {
+        "year": 1969,
+        "era": "Pakistan Era",
+        "category": "Revenue & Customs",
+        "title_en": "The Customs Act, 1969",
+        "title_bn": "কাস্টমস আইন, ১৯৬৯"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Customs Act, 1969 [Repealed]",
+        "official_index_year": "1969",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-354.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": true,
+        "note": null
+      }
+    },
+    {
+      "id": 134,
+      "submitted": {
+        "year": 1969,
+        "era": "Pakistan Era",
+        "category": "Capital Market",
+        "title_en": "The Securities and Exchange Ordinance, 1969",
+        "title_bn": "সিকিউরিটিজ অ্যান্ড এক্সচেঞ্জ অধ্যাদেশ, ১৯৬৯"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Securities and Exchange Ordinance, 1969",
+        "official_index_year": "1969",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-355.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 135,
+      "submitted": {
+        "year": 1972,
+        "era": "Bangladesh Era",
+        "category": "Constitutional Law",
+        "title_en": "The Constitution of the People's Republic of Bangladesh, 1972",
+        "title_bn": "গণপ্রজাতন্ত্রী বাংলাদেশের সংবিধান, ১৯৭২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Constitution of the People’s Republic of Bangladesh",
+        "official_index_year": "1972",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-367.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 136,
+      "submitted": {
+        "year": 1973,
+        "era": "Bangladesh Era",
+        "category": "Statutory Revision",
+        "title_en": "The Bangladesh Laws (Revision and Declaration) Act, 1973",
+        "title_bn": "বাংলাদেশ আইন (সংশোধন ও ঘোষণা) আইন, ১৯৭৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Bangladesh Laws (Revision And Declaration) Act, 1973",
+        "official_index_year": "1973",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-430.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 137,
+      "submitted": {
+        "year": 1972,
+        "era": "Bangladesh Era",
+        "category": "Election Law",
+        "title_en": "The Representation of the People Order, 1972 (RPO)",
+        "title_bn": "গণপ্রতিনিধিত্ব আদেশ, ১৯৭২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Representation of the People Order, 1972",
+        "official_index_year": "1972",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2023-12-21-15-43-08-453.-The-Representation-of-the-People-Order%2C-1972.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 138,
+      "submitted": {
+        "year": 1972,
+        "era": "Bangladesh Era",
+        "category": "Banking & Finance",
+        "title_en": "The Bangladesh Bank Order, 1972",
+        "title_bn": "বাংলাদেশ ব্যাংক আদেশ, ১৯৭২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Bangladesh Bank Order, 1972",
+        "official_index_year": "1972",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2023-12-21-15-26-47-445.-Bangladesh-Bank-Order%2C-1972.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 139,
+      "submitted": {
+        "year": 1972,
+        "era": "Bangladesh Era",
+        "category": "Judiciary & Legal Profession",
+        "title_en": "The Bangladesh Legal Practitioners and Bar Council Order, 1972",
+        "title_bn": "বাংলাদেশ বার কাউন্সিল আদেশ, ১৯৭২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Bangladesh Legal Practitioner's and Bar Council Order, 1972 (President's Order)",
+        "official_index_year": "1972",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-387.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 140,
+      "submitted": {
+        "year": 1972,
+        "era": "Bangladesh Era",
+        "category": "Constitutional & State",
+        "title_en": "The Bangladesh National Anthem, Flag and Emblem Order, 1972",
+        "title_bn": "জাতীয় সংগীত, পতাকা ও প্রতীক আদেশ, ১৯৭২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Bangladesh National Anthem, Flag and Emblem Order, 1972",
+        "official_index_year": "1972",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2023-12-21-15-39-56-448.-Bangladesh-National-Anthem%2C-Flag-and-Emblem-Order%2C-1972.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 141,
+      "submitted": {
+        "year": 1972,
+        "era": "Bangladesh Era",
+        "category": "Property",
+        "title_en": "The Bangladesh Abandoned Property (Control, Management and Disposal) Order, 1972",
+        "title_bn": "পরিত্যক্ত সম্পত্তি আদেশ, ১৯৭২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Bangladesh Abandoned Property (Control, Management and Disposal) Order, 1972 (President's Order)",
+        "official_index_year": "1972",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-373.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 142,
+      "submitted": {
+        "year": 1973,
+        "era": "Bangladesh Era",
+        "category": "Immigration & Travel",
+        "title_en": "The Bangladesh Passport Order, 1973",
+        "title_bn": "বাংলাদেশ পাসপোর্ট আদেশ, ১৯৭৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Bangladesh Passport Order, 1973",
+        "official_index_year": "1973",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2023-12-24-09-21-50-474.-THE-BANGLADESH-PASSPORT-%28Amendmet%29-Ordn%2C-1975_fina_sh_E_.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 143,
+      "submitted": {
+        "year": 1973,
+        "era": "Bangladesh Era",
+        "category": "War Crimes & Special Tribunal",
+        "title_en": "The International Crimes (Tribunals) Act, 1973",
+        "title_bn": "আন্তর্জাতিক অপরাধ (ট্রাইব্যুনাল) আইন, ১৯৭৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The International Crimes (Tribunals) Act, 1973",
+        "official_index_year": "1973",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-435.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 144,
+      "submitted": {
+        "year": 1973,
+        "era": "Bangladesh Era",
+        "category": "Media & Press",
+        "title_en": "The Printing Presses and Publications (Declaration and Registration) Act, 1973",
+        "title_bn": "ছাপাখানা ও প্রকাশনা (ঘোষণা ও নিবন্ধন) আইন, ১৯৭৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Printing Presses and Publications (Declaration and Registration) Act, 1973",
+        "official_index_year": "1973",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-437.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 145,
+      "submitted": {
+        "year": 1974,
+        "era": "Bangladesh Era",
+        "category": "Criminal & Security",
+        "title_en": "The Special Powers Act, 1974",
+        "title_bn": "বিশেষ ক্ষমতা আইন, ১৯৭৪"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Special Powers Act, 1974",
+        "official_index_year": "1974",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2023-12-24-09-29-01-490.--Special-Powers-Act%2C-1974.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 146,
+      "submitted": {
+        "year": 1974,
+        "era": "Bangladesh Era",
+        "category": "Family Law",
+        "title_en": "The Muslim Marriages and Divorces (Registration) Act, 1974",
+        "title_bn": "মুসলিম বিবাহ ও তালাক (নিবন্ধন) আইন, ১৯৭৪"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Muslim Marriages and Divorces (Registration) Act, 1974",
+        "official_index_year": "1974",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-476.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 147,
+      "submitted": {
+        "year": 1974,
+        "era": "Bangladesh Era",
+        "category": "Child Protection",
+        "title_en": "The Children Act, 1974",
+        "title_bn": "শিশু আইন, ১৯৭৪"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Children Act, 1974 [Repealed]",
+        "official_index_year": "1974",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-470.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": true,
+        "note": null
+      }
+    },
+    {
+      "id": 148,
+      "submitted": {
+        "year": 1974,
+        "era": "Bangladesh Era",
+        "category": "Media & Press",
+        "title_en": "The Press Council Act, 1974",
+        "title_bn": "প্রেস কাউন্সিল আইন, ১৯৭৪"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Press Council Act, 1974",
+        "official_index_year": "1974",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2023-12-24-09-34-02-1.-Press-Council-Act%2C-1974.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 149,
+      "submitted": {
+        "year": 1974,
+        "era": "Bangladesh Era",
+        "category": "International & Criminal",
+        "title_en": "The Extradition Act, 1974",
+        "title_bn": "আসামি প্রত্যর্পণ আইন, ১৯৭৪"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Extradition Act, 1974",
+        "official_index_year": "1974",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-479.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 150,
+      "submitted": {
+        "year": 1974,
+        "era": "Bangladesh Era",
+        "category": "Maritime",
+        "title_en": "The Territorial Waters and Maritime Zones Act, 1974",
+        "title_bn": "সমুদ্রসীমা আইন, ১৯৭৪"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Territorial Waters and Maritime Zones Act, 1974",
+        "official_index_year": "1974",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-467.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 151,
+      "submitted": {
+        "year": 1976,
+        "era": "Bangladesh Era",
+        "category": "Law Enforcement",
+        "title_en": "The Dhaka Metropolitan Police Ordinance, 1976 (DMP Ordinance)",
+        "title_bn": "ঢাকা মেট্রোপলিটন পুলিশ অধ্যাদেশ, ১৯৭৬"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Dhaka Metropolitan Police Ordinance, 1976",
+        "official_index_year": "1976",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-511.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 152,
+      "submitted": {
+        "year": 1976,
+        "era": "Bangladesh Era",
+        "category": "Maritime & Transport",
+        "title_en": "The Inland Shipping Ordinance, 1976",
+        "title_bn": "অভ্যন্তরীণ নৌ-চলাচল অধ্যাদেশ, ১৯৭৬"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Inland Shipping Ordinance, 1976",
+        "official_index_year": "1976",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-531.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 153,
+      "submitted": {
+        "year": 1978,
+        "era": "Bangladesh Era",
+        "category": "NGO & Foreign Aid",
+        "title_en": "The Foreign Donations (Voluntary Activities) Regulation Ordinance, 1978",
+        "title_bn": "বৈদেশিক অনুদান (স্বেচ্ছাসেবামূলক কার্যক্রম) রেগুলেশন অধ্যাদেশ, ১৯৭৮"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Foreign Donations (Voluntary Activities) Regulation Ordinance, 1978",
+        "official_index_year": "1978",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-577.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 154,
+      "submitted": {
+        "year": 1978,
+        "era": "Bangladesh Era",
+        "category": "Law Enforcement",
+        "title_en": "The Chittagong Metropolitan Police Ordinance, 1978 (CMP Ordinance)",
+        "title_bn": "চট্টগ্রাম মেট্রোপলিটন পুলিশ অধ্যাদেশ, ১৯৭৮"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Chittagong Metropolitan Police Ordinance, 1978",
+        "official_index_year": "1978",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2023-12-24-10-35-01-12.-THE-CHITTAGONG-METROPOLITAN-POLICE-ORDINANCE_1984-%2873-116%29.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 155,
+      "submitted": {
+        "year": 1979,
+        "era": "Bangladesh Era",
+        "category": "Law Enforcement",
+        "title_en": "The Armed Police Battalions Ordinance, 1979 (APBn)",
+        "title_bn": "আর্মড পুলিশ ব্যাটালিয়ন অধ্যাদেশ, ১৯৭৯"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Armed Police Battalions Ordinance, 1979",
+        "official_index_year": "1979",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2023-12-24-10-38-43-20.-THE-ARMED-POLICE-BATTALIONS-_1979-%28250-263%29.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 156,
+      "submitted": {
+        "year": 1980,
+        "era": "Bangladesh Era",
+        "category": "Constitutional & Administrative",
+        "title_en": "The Ombudsman Act, 1980",
+        "title_bn": "ন্যায়পাল আইন, ১৯৮০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Ombudsman Act, 1980",
+        "official_index_year": "1980",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2023-12-24-10-41-46-26.-ACT-NO-XV-OF-1980-%28279-286%29.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 157,
+      "submitted": {
+        "year": 1980,
+        "era": "Bangladesh Era",
+        "category": "Investment & Trade",
+        "title_en": "The Foreign Private Investment (Promotion and Protection) Act, 1980",
+        "title_bn": "বৈদেশিক বেসরকারি বিনিয়োগ (উন্নয়ন ও সুরক্ষা) আইন, ১৯৮০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Foreign Private Investment (Promotion and Protection) Act, 1980",
+        "official_index_year": "1980",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2023-12-24-10-40-44-24.-ACT-NO.-XI-OF-1980-%28274-276%29.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 158,
+      "submitted": {
+        "year": 1982,
+        "era": "Bangladesh Era",
+        "category": "Land & Property",
+        "title_en": "The Acquisition and Requisition of Immovable Property Ordinance, 1982",
+        "title_bn": "স্থাবর সম্পত্তি অধিগ্রহণ ও হুকুমদখল অধ্যাদেশ, ১৯৮২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Acquisition and Requisition of Immovable Property Ordinance, 1982 [Repealed]",
+        "official_index_year": "1982",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-619.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": true,
+        "note": null
+      }
+    },
+    {
+      "id": 159,
+      "submitted": {
+        "year": 1982,
+        "era": "Bangladesh Era",
+        "category": "Health",
+        "title_en": "The Medical Practice and Private Clinics and Laboratories (Regulation) Ordinance, 1982",
+        "title_bn": "মেডিকেল প্র্যাকটিস এবং বেসরকারি ক্লিনিক ও ল্যাবরেটরি অধ্যাদেশ, ১৯৮২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Medical Practice and Private Clinics and Laboratories (Regulation) Ordinance, 1982",
+        "official_index_year": "1982",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-620.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 160,
+      "submitted": {
+        "year": 1982,
+        "era": "Bangladesh Era",
+        "category": "Commerce & Standards",
+        "title_en": "The Standards of Weights and Measures Ordinance, 1982",
+        "title_bn": "ওজন ও পরিমাপ মানদণ্ড অধ্যাদেশ, ১৯৮২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Standards of Weights and Measures Ordinance, 1982",
+        "official_index_year": "1982",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-624.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 161,
+      "submitted": {
+        "year": 1984,
+        "era": "Bangladesh Era",
+        "category": "Land & Property",
+        "title_en": "The Land Reform Ordinance, 1984",
+        "title_bn": "ভূমি সংস্কার অধ্যাদেশ, ১৯৮৪"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Land Reforms Ordinance, 1984 [Repealed]",
+        "official_index_year": "1984",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-665.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": true,
+        "note": null
+      }
+    },
+    {
+      "id": 162,
+      "submitted": {
+        "year": 1984,
+        "era": "Bangladesh Era",
+        "category": "Revenue & Tax",
+        "title_en": "The Income-tax Ordinance, 1984",
+        "title_bn": "আয়কর অধ্যাদেশ, ১৯৮৪"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Income-tax Ordinance, 1984 [Repealed]",
+        "official_index_year": "1984",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-672.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": true,
+        "note": null
+      }
+    },
+    {
+      "id": 163,
+      "submitted": {
+        "year": 1985,
+        "era": "Bangladesh Era",
+        "category": "Family Law",
+        "title_en": "The Family Courts Ordinance, 1985",
+        "title_bn": "পারিবারিক আদালত অধ্যাদেশ, ১৯৮৫"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Family Courts Ordinance, 1985 [Repealed]",
+        "official_index_year": "1985",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-682.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": true,
+        "note": null
+      }
+    },
+    {
+      "id": 164,
+      "submitted": {
+        "year": 1980,
+        "era": "Bangladesh Era",
+        "category": "Administrative & Service",
+        "title_en": "The Administrative Tribunals Act, 1980",
+        "title_bn": "প্রশাসনিক ট্রাইব্যুনাল আইন, ১৯৮০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Administrative Tribunals Act, 1980",
+        "official_index_year": "1981",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-613.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 165,
+      "submitted": {
+        "year": 1983,
+        "era": "Bangladesh Era",
+        "category": "Criminal Law",
+        "title_en": "The Cruelty to Women (Deterrent Punishment) Ordinance, 1983",
+        "title_bn": "নারীর প্রতি নিষ্ঠুরতা (নিরোধক শাস্তি) অধ্যাদেশ, ১৯৮৩"
+      },
+      "verification": {
+        "review_status": "not_confirmed",
+        "official_lookup_url": "https://bdlaws.minlaw.gov.bd/laws-of-bangladesh.html",
+        "note": "No individual 1983 Cruelty to Women (Deterrent Punishment) Ordinance entry was located in the checked official index."
+      }
+    },
+    {
+      "id": 166,
+      "submitted": {
+        "year": 1991,
+        "era": "Bangladesh Era",
+        "category": "Real Estate & Tenancy",
+        "title_en": "The Premises Rent Control Act, 1991",
+        "title_bn": "বাড়িভাড়া নিয়ন্ত্রণ আইন, ১৯৯১"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "বাড়ী ভাড়া নিয়ন্ত্রণ আইন, ১৯৯১",
+        "official_index_year": "১৯৯১",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-748.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 167,
+      "submitted": {
+        "year": 1991,
+        "era": "Bangladesh Era",
+        "category": "Banking & Finance",
+        "title_en": "The Bank-Company Act, 1991",
+        "title_bn": "ব্যাংক-কোম্পানি আইন, ১৯৯১"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "ব্যাংক-কোম্পানী আইন, ১৯৯১",
+        "official_index_year": "১৯৯১",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-751.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 168,
+      "submitted": {
+        "year": 1991,
+        "era": "Bangladesh Era",
+        "category": "Revenue & Tax",
+        "title_en": "The Value Added Tax Act, 1991",
+        "title_bn": "মূল্য সংযোজন কর আইন, ১৯৯১"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "মূল্য সংযোজন কর আইন, ১৯৯১ [রহিত]",
+        "official_index_year": "১৯৯১",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-755.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": true,
+        "note": null
+      }
+    },
+    {
+      "id": 169,
+      "submitted": {
+        "year": 1991,
+        "era": "Bangladesh Era",
+        "category": "Education",
+        "title_en": "The Non-Governmental Educational Institutions Rules / Acts",
+        "title_bn": "বেসরকারি শিক্ষা প্রতিষ্ঠান আইন ও বিধিমালা"
+      },
+      "verification": {
+        "review_status": "composite_entry",
+        "official_lookup_url": "https://bdlaws.minlaw.gov.bd/laws-of-bangladesh.html",
+        "note": "This is a broad rules/acts description, not one identifiable enactment."
+      }
+    },
+    {
+      "id": 170,
+      "submitted": {
+        "year": 1993,
+        "era": "Bangladesh Era",
+        "category": "Banking & Finance",
+        "title_en": "The Financial Institutions Act, 1993",
+        "title_bn": "আর্থিক প্রতিষ্ঠান আইন, ১৯৯৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "আর্থিক প্রতিষ্ঠান আইন, ১৯৯৩",
+        "official_index_year": "১৯৯৩‌‌",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2024-01-22-11-12-56-73.-Law-No.-27-of-1993_2001-%28page-14-37%29.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 171,
+      "submitted": {
+        "year": 1993,
+        "era": "Bangladesh Era",
+        "category": "Capital Market",
+        "title_en": "The Securities and Exchange Commission Act, 1993",
+        "title_bn": "সিকিউরিটিজ অ্যান্ড এক্সচেঞ্জ কমিশন আইন, ১৯৯৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "বাংলাদেশ সিকিউরিটিজ অ্যান্ড এক্সচেঞ্জ কমিশন আইন, ১৯৯৩",
+        "official_index_year": "১৯৯৩",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-775.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 172,
+      "submitted": {
+        "year": 1994,
+        "era": "Bangladesh Era",
+        "category": "Corporate & Business",
+        "title_en": "The Companies Act, 1994",
+        "title_bn": "কোম্পানি আইন, ১৯৯৪"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "কোম্পানী আইন, ১৯৯৪",
+        "official_index_year": "১৯৯৪",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2024-01-22-11-18-07-80.-Companies-Law-18-of-1994_2005-%28page-103-477%29.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 173,
+      "submitted": {
+        "year": 1995,
+        "era": "Bangladesh Era",
+        "category": "Environment",
+        "title_en": "The Bangladesh Environment Conservation Act, 1995",
+        "title_bn": "বাংলাদেশ পরিবেশ সংরক্ষণ আইন, ১৯৯৫"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "বাংলাদেশ পরিবেশ সংরক্ষণ আইন, ১৯৯৫",
+        "official_index_year": "১৯৯৫",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-791.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 174,
+      "submitted": {
+        "year": 1996,
+        "era": "Bangladesh Era",
+        "category": "Public Utilities",
+        "title_en": "The Water Supply and Sewerage Authority Act, 1996 (WASA Act)",
+        "title_bn": "পানি সরবরাহ ও পয়ঃনিষ্কাশন কর্তৃপক্ষ আইন, ১৯৯৬ (ওয়াসা আইন)"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "পানি সরবরাহ ও পয়ঃনিষ্কাশন কর্তৃপক্ষ আইন, ১৯৯৬",
+        "official_index_year": "১৯৯৬",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-804.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 175,
+      "submitted": {
+        "year": 1997,
+        "era": "Bangladesh Era",
+        "category": "Banking & Insolvency",
+        "title_en": "The Bankruptcy Act, 1997",
+        "title_bn": "দেউলিয়া বিষয়ক আইন, ১৯৯৭"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "দেউলিয়া বিষয়ক আইন, ১৯৯৭",
+        "official_index_year": "১৯৯৭",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-812.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 176,
+      "submitted": {
+        "year": 1999,
+        "era": "Bangladesh Era",
+        "category": "Health",
+        "title_en": "The Human Organ Transplantation Act, 1999",
+        "title_bn": "মানবদেহে অঙ্গ-প্রত্যঙ্গ সংযোজন আইন, ১৯৯৯"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "মানবদেহে অঙ্গ-প্রত্যঙ্গ সংযোজন আইন, ১৯৯৯ [রহিত]",
+        "official_index_year": "১৯৯৯",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-828.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": true,
+        "note": null
+      }
+    },
+    {
+      "id": 177,
+      "submitted": {
+        "year": 2000,
+        "era": "Bangladesh Era",
+        "category": "Criminal & Family",
+        "title_en": "Prevention of Oppression Against Women and Children Act, 2000",
+        "title_bn": "নারী ও শিশু নির্যাতন দমন আইন, ২০০০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "নারী ও শিশু নির্যাতন দমন আইন, ২০০০",
+        "official_index_year": "২০০০",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-835.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 178,
+      "submitted": {
+        "year": 2000,
+        "era": "Bangladesh Era",
+        "category": "Legal Aid",
+        "title_en": "The Legal Aid Services Act, 2000",
+        "title_bn": "আইনগত সহায়তা প্রদান আইন, ২০০০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "আইনগত সহায়তা প্রদান আইন, ২০০০",
+        "official_index_year": "২০০০",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-834.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 179,
+      "submitted": {
+        "year": 2000,
+        "era": "Bangladesh Era",
+        "category": "Environment",
+        "title_en": "The Environment Court Act, 2000",
+        "title_bn": "পরিবেশ আদালত আইন, ২০০০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "পরিবেশ আদালত আইন, ২০০০ [রহিত]",
+        "official_index_year": "২০০০",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-836.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": true,
+        "note": null
+      }
+    },
+    {
+      "id": 180,
+      "submitted": {
+        "year": 2001,
+        "era": "Bangladesh Era",
+        "category": "ADR & Commercial",
+        "title_en": "The Arbitration Act, 2001",
+        "title_bn": "সালিশ আইন, ২০০১"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "সালিস আইন, ২০০১",
+        "official_index_year": "২০০১",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-850.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 181,
+      "submitted": {
+        "year": 2001,
+        "era": "Bangladesh Era",
+        "category": "Telecom",
+        "title_en": "The Bangladesh Telecommunication Regulation Act, 2001",
+        "title_bn": "বাংলাদেশ টেলিযোগাযোগ নিয়ন্ত্রণ আইন, ২০০১"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "বাংলাদেশ টেলিযোগাযোগ নিয়ন্ত্রণ আইন, ২০০১",
+        "official_index_year": "২০০১",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2024-01-22-12-51-25-145.-Act-No.-18-of-2001.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 182,
+      "submitted": {
+        "year": 2001,
+        "era": "Bangladesh Era",
+        "category": "Co-operatives",
+        "title_en": "The Co-operative Societies Act, 2001",
+        "title_bn": "সমবায় সমিতি আইন, ২০০১"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "সমবায় সমিতি আইন, ২০০১",
+        "official_index_year": "২০০১",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2024-01-22-13-07-29-163.-Act_No%5B1%5D._47_of_2001_2002_done.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 183,
+      "submitted": {
+        "year": 1980,
+        "era": "Bangladesh Era",
+        "category": "Family & Criminal",
+        "title_en": "The Dowry Prohibition Act, 1980 (Replaced by 2018 Act)",
+        "title_bn": "যৌতুক নিরোধ আইন, ১৯৮০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "The Dowry Prohibition Act, 1980 [Repealed]",
+        "official_index_year": "1980",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-607.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": true,
+        "note": null
+      }
+    },
+    {
+      "id": 184,
+      "submitted": {
+        "year": 2002,
+        "era": "Bangladesh Era",
+        "category": "Criminal Law",
+        "title_en": "The Acid Crime Suppression Act, 2002",
+        "title_bn": "এসিড অপরাধ দমন আইন, ২০০২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "এসিড অপরাধ দমন আইন, ২০০২",
+        "official_index_year": "২০০২",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2024-01-22-13-10-46-170.-Act-No.-2-of-2002.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 185,
+      "submitted": {
+        "year": 2002,
+        "era": "Bangladesh Era",
+        "category": "Criminal & Public Safety",
+        "title_en": "The Acid Control Act, 2002",
+        "title_bn": "এসিড নিয়ন্ত্রণ আইন, ২০০২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "এসিড নিয়ন্ত্রণ আইন, ২০০২",
+        "official_index_year": "২০০২",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2024-01-22-13-10-28-169.-Act-No.-1-of-2002.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 186,
+      "submitted": {
+        "year": 2002,
+        "era": "Bangladesh Era",
+        "category": "Criminal Procedure",
+        "title_en": "The Law and Order Disruption Crimes (Speedy Trial) Act, 2002",
+        "title_bn": "আইন-শৃঙ্খলা বিঘ্নকারী অপরাধ (দ্রুত বিচার) আইন, ২০০২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "আইন-শৃঙ্খলা বিঘ্নকারী অপরাধ (দ্রুত বিচার) আইন, ২০০২",
+        "official_index_year": "২০০২",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2024-01-22-13-12-56-175.--Act-No-11-of-2002.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 187,
+      "submitted": {
+        "year": 2003,
+        "era": "Bangladesh Era",
+        "category": "Banking & Finance",
+        "title_en": "The Artha Rin Adalat Ain, 2003 (Money Loan Court Act)",
+        "title_bn": "অর্থ ঋণ আদালত আইন, ২০০৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "অর্থ ঋণ আদালত আইন, ২০০৩",
+        "official_index_year": "২০০৩",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2024-01-22-13-20-32-188.-Artha-Rin-Adalat-Ain%2C-2003_2004_fina.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 188,
+      "submitted": {
+        "year": 2003,
+        "era": "Bangladesh Era",
+        "category": "Energy & Power",
+        "title_en": "The Bangladesh Energy Regulatory Commission Act, 2003 (BERC Act)",
+        "title_bn": "বাংলাদেশ এনার্জি রেগুলেটরি কমিশন আইন, ২০০৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "বাংলাদেশ এনার্জি রেগুলেটরী কমিশন আইন, ২০০৩",
+        "official_index_year": "২০০৩",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2024-01-22-13-21-08-189.--Act-No.-13-of-2003-%28bangla%29.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 189,
+      "submitted": {
+        "year": 2004,
+        "era": "Bangladesh Era",
+        "category": "Civil Registration",
+        "title_en": "The Birth and Death Registration Act, 2004",
+        "title_bn": "জন্ম ও মৃত্যু নিবন্ধন আইন, ২০০৪"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "জন্ম ও মৃত্যু নিবন্ধন আইন, ২০০৪",
+        "official_index_year": "২০০৪",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-921.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 190,
+      "submitted": {
+        "year": 2004,
+        "era": "Bangladesh Era",
+        "category": "Anti-Corruption",
+        "title_en": "The Anti-Corruption Commission Act, 2004",
+        "title_bn": "দুর্নীতি দমন কমিশন আইন, ২০০৪"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "দুর্নীতি দমন কমিশন আইন, ২০০৪",
+        "official_index_year": "২০০৪",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-914.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 191,
+      "submitted": {
+        "year": 2005,
+        "era": "Bangladesh Era",
+        "category": "Public Health",
+        "title_en": "Smoking and Tobacco Products Usage (Control) Act, 2005",
+        "title_bn": "ধূমপান ও তামাকজাত দ্রব্য ব্যবহার (নিয়ন্ত্রণ) আইন, ২০০৫"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "ধূমপান ও তামাকজাত দ্রব্য ব্যবহার (নিয়ন্ত্রণ) আইন, ২০০৫",
+        "official_index_year": "২০০৫",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-927.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 192,
+      "submitted": {
+        "year": 2006,
+        "era": "Bangladesh Era",
+        "category": "Labour & Employment",
+        "title_en": "The Bangladesh Labour Act, 2006",
+        "title_bn": "বাংলাদেশ শ্রম আইন, ২০০৬"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "বাংলাদেশ শ্রম আইন, ২০০৬",
+        "official_index_year": "২০০৬",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-952.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 193,
+      "submitted": {
+        "year": 2006,
+        "era": "Bangladesh Era",
+        "category": "Cyber & IT",
+        "title_en": "The Information and Communication Technology Act, 2006 (ICT Act)",
+        "title_bn": "তথ্য ও যোগাযোগ প্রযুক্তি আইন, ২০০৬"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "তথ্য ও যোগাযোগ প্রযুক্তি আইন, ২০০৬",
+        "official_index_year": "২০০৬",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-950.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 194,
+      "submitted": {
+        "year": 2006,
+        "era": "Bangladesh Era",
+        "category": "Local Govt & Judiciary",
+        "title_en": "The Village Courts Act, 2006",
+        "title_bn": "গ্রাম আদালত আইন, ২০০৬"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "গ্রাম আদালত আইন, ২০০৬",
+        "official_index_year": "২০০৬",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-938.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 195,
+      "submitted": {
+        "year": 2006,
+        "era": "Bangladesh Era",
+        "category": "Finance & NGO",
+        "title_en": "The Microcredit Regulatory Authority Act, 2006 (MRA Act)",
+        "title_bn": "মাইক্রোক্রেডিট রেগুলেটরি অথরিটি আইন, ২০০৬"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "মাইক্রোক্রেডিট রেগুলেটরী অথরিটি আইন, ২০০৬",
+        "official_index_year": "২০০৬",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-947.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 196,
+      "submitted": {
+        "year": 2009,
+        "era": "Bangladesh Era",
+        "category": "Consumer Protection",
+        "title_en": "The Consumer Rights Protection Act, 2009",
+        "title_bn": "ভোক্তা অধিকার সংরক্ষণ আইন, ২০০৯"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "ভোক্তা অধিকার সংরক্ষণ আইন, ২০০৯",
+        "official_index_year": "২০০৯",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1014.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 197,
+      "submitted": {
+        "year": 2009,
+        "era": "Bangladesh Era",
+        "category": "Public Transparency",
+        "title_en": "The Right to Information Act, 2009 (RTI Act)",
+        "title_bn": "তথ্য অধিকার আইন, ২০০৯"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "তথ্য অধিকার আইন, ২০০৯",
+        "official_index_year": "২০০৯",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1011.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 198,
+      "submitted": {
+        "year": 2009,
+        "era": "Bangladesh Era",
+        "category": "Criminal & Security",
+        "title_en": "The Anti-Terrorism Act, 2009",
+        "title_bn": "সন্ত্রাস বিরোধী আইন, ২০০৯"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "সন্ত্রাস বিরোধী আইন, ২০০৯",
+        "official_index_year": "২০০৯",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1009.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 199,
+      "submitted": {
+        "year": 2009,
+        "era": "Bangladesh Era",
+        "category": "Judiciary & Executive",
+        "title_en": "The Mobile Court Act, 2009",
+        "title_bn": "মোবাইল কোর্ট আইন, ২০০৯"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "মোবাইল কোর্ট আইন, ২০০৯",
+        "official_index_year": "২০০৯",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1025.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 200,
+      "submitted": {
+        "year": 2009,
+        "era": "Bangladesh Era",
+        "category": "Intellectual Property",
+        "title_en": "The Trademarks Act, 2009",
+        "title_bn": "ট্রেডমার্ক আইন, ২০০৯"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "ট্রেডমার্ক আইন, ২০০৯",
+        "official_index_year": "২০০৯",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1010.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 201,
+      "submitted": {
+        "year": 2009,
+        "era": "Bangladesh Era",
+        "category": "Human Rights",
+        "title_en": "The National Human Rights Commission Act, 2009",
+        "title_bn": "জাতীয় মানবাধিকার কমিশন আইন, ২০০৯"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "জাতীয় মানবাধিকার কমিশন আইন, ২০০৯ [রহিত]",
+        "official_index_year": "২০০৯",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1023.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": true,
+        "note": null
+      }
+    },
+    {
+      "id": 202,
+      "submitted": {
+        "year": 2009,
+        "era": "Bangladesh Era",
+        "category": "Local Govt",
+        "title_en": "Local Government (City Corporation / Pourashava / Union Parishad / Upazila Parishad) Acts, 2009",
+        "title_bn": "স্থানীয় সরকার (সিটি কর্পোরেশন / পৌরসভা / ইউনিয়ন পরিষদ / উপজেলা পরিষদ) আইন, ২০০৯"
+      },
+      "verification": {
+        "review_status": "composite_entry",
+        "official_lookup_url": "https://bdlaws.minlaw.gov.bd/laws-of-bangladesh.html",
+        "note": "This combines several local-government Acts, so it cannot be verified as one law."
+      }
+    },
+    {
+      "id": 203,
+      "submitted": {
+        "year": 2010,
+        "era": "Bangladesh Era",
+        "category": "Real Estate & Land",
+        "title_en": "The Real Estate Development and Management Act, 2010",
+        "title_bn": "রিয়েল এস্টেট উন্নয়ন ও ব্যবস্থাপনা আইন, ২০১০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "রিয়েল এস্টেট উন্নয়ন ও ব্যবস্থাপনা আইন, ২০১০",
+        "official_index_year": "২০১০",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1055.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 204,
+      "submitted": {
+        "year": 2010,
+        "era": "Bangladesh Era",
+        "category": "Finance & Insurance",
+        "title_en": "The Insurance Act, 2010",
+        "title_bn": "বীমা আইন, ২০১০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "বীমা আইন, ২০১০",
+        "official_index_year": "২০১০",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1037.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 205,
+      "submitted": {
+        "year": 2010,
+        "era": "Bangladesh Era",
+        "category": "Family Law",
+        "title_en": "The Domestic Violence (Prevention and Protection) Act, 2010",
+        "title_bn": "পারিবারিক সহিংসতা (প্রতিরোধ ও সুরক্ষা) আইন, ২০১০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "পারিবারিক সহিংসতা (প্রতিরোধ ও সুরক্ষা) আইন, ২০১০",
+        "official_index_year": "২০১০",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1063.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 206,
+      "submitted": {
+        "year": 2010,
+        "era": "Bangladesh Era",
+        "category": "Environment",
+        "title_en": "The Environment Court Act, 2010",
+        "title_bn": "পরিবেশ আদালত আইন, ২০১০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "পরিবেশ আদালত আইন, ২০১০",
+        "official_index_year": "২০১০",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1061.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 207,
+      "submitted": {
+        "year": 2010,
+        "era": "Bangladesh Era",
+        "category": "Investment & Trade",
+        "title_en": "The Bangladesh Economic Zones Act, 2010 (BEZA Act)",
+        "title_bn": "বাংলাদেশ অর্থনৈতিক অঞ্চল আইন, ২০১০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "বাংলাদেশ অর্থনৈতিক অঞ্চল আইন, ২০১০ [রহিত]",
+        "official_index_year": "২০১০",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1053.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": true,
+        "note": null
+      }
+    },
+    {
+      "id": 208,
+      "submitted": {
+        "year": 2010,
+        "era": "Bangladesh Era",
+        "category": "Tourism",
+        "title_en": "The Bangladesh Tourism Board Act, 2010",
+        "title_bn": "বাংলাদেশ পর্যটন বোর্ড আইন, ২০১০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "বাংলাদেশ পর্যটন বোর্ড আইন, ২০১০",
+        "official_index_year": "২০১০",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1050.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 209,
+      "submitted": {
+        "year": 2010,
+        "era": "Bangladesh Era",
+        "category": "Health & Medical",
+        "title_en": "The Bangladesh Medical and Dental Council Act, 2010 (BMDC Act)",
+        "title_bn": "বাংলাদেশ মেডিকেল ও ডেন্টাল কাউন্সিল আইন, ২০১০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "বাংলাদেশ মেডিকেল ও ডেন্টাল কাউন্সিল আইন, ২০১০",
+        "official_index_year": "২০১০",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1065.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 210,
+      "submitted": {
+        "year": 2011,
+        "era": "Bangladesh Era",
+        "category": "Public Transparency",
+        "title_en": "The Disclosure of Public Interest Information (Protection) Act, 2011",
+        "title_bn": "জনস্বার্থ সংশ্লিষ্ট তথ্য প্রকাশ (সুরক্ষা প্রদান) আইন, ২০১১"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "জনস্বার্থ সংশ্লিষ্ট তথ্য প্রকাশ (সুরক্ষা প্রদান) আইন, ২০১১",
+        "official_index_year": "২০১১",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2024-01-29-11-42-37-304.-Law-No.7-of-2011.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 211,
+      "submitted": {
+        "year": 2011,
+        "era": "Bangladesh Era",
+        "category": "Social Welfare",
+        "title_en": "The Vagrants and Homeless Persons (Rehabilitation) Act, 2011",
+        "title_bn": "ভবঘুরে ও নিরাশ্রয় ব্যক্তি (পুনর্বাসন) আইন, ২০১১"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "ভবঘুরে ও নিরাশ্রয় ব্যক্তি (পুনর্বাসন) আইন, ২০১১",
+        "official_index_year": "২০১১",
+        "official_source_url": "https://bdcode.gov.bd/upload/bdcodeact/2024-01-29-11-47-29-310.-Law-No.15-of-2011.pdf",
+        "source_kind": "bdcode",
+        "official_index_url": "https://bdcode.gov.bd/bangladesh-code-chronological-index.html",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 212,
+      "submitted": {
+        "year": 2012,
+        "era": "Bangladesh Era",
+        "category": "Financial Crime",
+        "title_en": "The Money Laundering Prevention Act, 2012",
+        "title_bn": "মানিলন্ডারিং প্রতিরোধ আইন, ২০১২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "মানিলন্ডারিং প্রতিরোধ আইন, ২০১২",
+        "official_index_year": "২০১২",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1088.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 213,
+      "submitted": {
+        "year": 2012,
+        "era": "Bangladesh Era",
+        "category": "Criminal Law",
+        "title_en": "The Prevention and Suppression of Human Trafficking Act, 2012",
+        "title_bn": "মানব পাচার প্রতিরোধ ও দমন আইন, ২০১২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "মানব পাচার প্রতিরোধ ও দমন আইন, ২০১২ [রহিত]",
+        "official_index_year": "২০১২",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1086.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": true,
+        "note": null
+      }
+    },
+    {
+      "id": 214,
+      "submitted": {
+        "year": 2012,
+        "era": "Bangladesh Era",
+        "category": "Cyber & Criminal",
+        "title_en": "The Pornography Control Act, 2012",
+        "title_bn": "পর্নোগ্রাফি নিয়ন্ত্রণ আইন, ২০১২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "পর্নোগ্রাফি নিয়ন্ত্রণ আইন, ২০১২",
+        "official_index_year": "২০১২",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1091.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 215,
+      "submitted": {
+        "year": 2012,
+        "era": "Bangladesh Era",
+        "category": "Land & Property",
+        "title_en": "The Power of Attorney Act, 2012",
+        "title_bn": "পাওয়ার অব অ্যাটর্নি আইন, ২০১২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "পাওয়ার অব অ্যাটর্নি আইন, ২০১২",
+        "official_index_year": "২০১২",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1104.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 216,
+      "submitted": {
+        "year": 2012,
+        "era": "Bangladesh Era",
+        "category": "Revenue & Tax",
+        "title_en": "The Value Added Tax and Supplementary Duty Act, 2012",
+        "title_bn": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২",
+        "official_index_year": "২০১২",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1106.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 217,
+      "submitted": {
+        "year": 2012,
+        "era": "Bangladesh Era",
+        "category": "Environment & Wildlife",
+        "title_en": "The Wildlife (Conservation and Security) Act, 2012",
+        "title_bn": "বন্যপ্রাণী (সংরক্ষণ ও নিরাপত্তা) আইন, ২০১২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "বন্যপ্রাণী (সংরক্ষণ ও নিরাপত্তা) আইন, ২০১২ [রহিত]",
+        "official_index_year": "২০১২",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1102.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": true,
+        "note": null
+      }
+    },
+    {
+      "id": 218,
+      "submitted": {
+        "year": 2012,
+        "era": "Bangladesh Era",
+        "category": "Disaster Management",
+        "title_en": "The Disaster Management Act, 2012",
+        "title_bn": "দুর্যোগ ব্যবস্থাপনা আইন, ২০১২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "দুর্যোগ ব্যবস্থাপনা আইন, ২০১২",
+        "official_index_year": "২০১২",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1103.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 219,
+      "submitted": {
+        "year": 2012,
+        "era": "Bangladesh Era",
+        "category": "Commerce & Trade",
+        "title_en": "The Competition Act, 2012",
+        "title_bn": "প্রতিযোগিতা আইন, ২০১২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "প্রতিযোগিতা আইন, ২০১২",
+        "official_index_year": "২০১২",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1098.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 220,
+      "submitted": {
+        "year": 2013,
+        "era": "Bangladesh Era",
+        "category": "Child Protection",
+        "title_en": "The Children Act, 2013",
+        "title_bn": "শিশু আইন, ২০১৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "শিশু আইন, ২০১৩",
+        "official_index_year": "২০১৩",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1119.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 221,
+      "submitted": {
+        "year": 2013,
+        "era": "Bangladesh Era",
+        "category": "Food & Consumer",
+        "title_en": "The Safe Food Act, 2013",
+        "title_bn": "নিরাপদ খাদ্য আইন, ২০১৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "নিরাপদ খাদ্য আইন, ২০১৩",
+        "official_index_year": "২০১৩",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1127.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 222,
+      "submitted": {
+        "year": 2013,
+        "era": "Bangladesh Era",
+        "category": "Family Law",
+        "title_en": "The Parents Maintenance Act, 2013",
+        "title_bn": "পিতা-মাতার ভরণ-পোষণ আইন, ২০১৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "পিতা-মাতার ভরণ-পোষণ আইন, ২০১৩",
+        "official_index_year": "২০১৩",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1132.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 223,
+      "submitted": {
+        "year": 2013,
+        "era": "Bangladesh Era",
+        "category": "Human Rights & Social",
+        "title_en": "The Rights and Protection of Persons with Disabilities Act, 2013",
+        "title_bn": "প্রতিবন্ধী ব্যক্তির অধিকার ও সুরক্ষা আইন, ২০১৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "প্রতিবন্ধী ব্যক্তির অধিকার ও সুরক্ষা আইন, ২০১৩",
+        "official_index_year": "২০১৩",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1126.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 224,
+      "submitted": {
+        "year": 2013,
+        "era": "Bangladesh Era",
+        "category": "Human Rights & Criminal",
+        "title_en": "The Torture and Custodial Death (Prevention) Act, 2013",
+        "title_bn": "নির্যাতন এবং হেফাজতে মৃত্যু (নিবারণ) আইন, ২০১৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "নির্যাতন এবং হেফাজতে মৃত্যু (নিবারণ) আইন, ২০১৩",
+        "official_index_year": "২০১৩",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1133.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 225,
+      "submitted": {
+        "year": 2013,
+        "era": "Bangladesh Era",
+        "category": "Labour & Migration",
+        "title_en": "The Overseas Employment and Migrants Act, 2013",
+        "title_bn": "বৈদেশিক কর্মসংস্থান ও অভিবাসী আইন, ২০১৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "বৈদেশিক কর্মসংস্থান ও অভিবাসী আইন, ২০১৩",
+        "official_index_year": "২০১৩",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1131.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 226,
+      "submitted": {
+        "year": 2013,
+        "era": "Bangladesh Era",
+        "category": "Intellectual Property",
+        "title_en": "The Geographical Indication of Goods (Registration and Protection) Act, 2013",
+        "title_bn": "ভৌগোলিক নির্দেশক পণ্য (নিবন্ধন ও সুরক্ষা) আইন, ২০১৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "ভৌগোলিক নির্দেশক পণ্য (নিবন্ধন ও সুরক্ষা) আইন, ২০১৩",
+        "official_index_year": "২০১৩",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1136.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 227,
+      "submitted": {
+        "year": 2014,
+        "era": "Bangladesh Era",
+        "category": "Tourism & Hospitality",
+        "title_en": "The Bangladesh Hotel and Restaurant Act, 2014",
+        "title_bn": "বাংলাদেশ হোটেল ও রেস্তোরাঁ আইন, ২০১৪"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "বাংলাদেশ হোটেল ও রেস্তোরাঁ আইন, ২০১৪",
+        "official_index_year": "২০১৪",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1154.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 228,
+      "submitted": {
+        "year": 2015,
+        "era": "Bangladesh Era",
+        "category": "Public Health & Safety",
+        "title_en": "The Formalin Control Act, 2015",
+        "title_bn": "ফরমালিন নিয়ন্ত্রণ আইন, ২০১৫"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "ফরমালিন নিয়ন্ত্রণ আইন, ২০১৫",
+        "official_index_year": "২০১৫",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1158.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 229,
+      "submitted": {
+        "year": 2017,
+        "era": "Bangladesh Era",
+        "category": "Family Law",
+        "title_en": "The Child Marriage Restraint Act, 2017",
+        "title_bn": "বাল্যবিবাহ নিরোধ আইন, ২০১৭"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "বাল্যবিবাহ নিরোধ আইন, ২০১৭",
+        "official_index_year": "২০১৭",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1207.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 230,
+      "submitted": {
+        "year": 2017,
+        "era": "Bangladesh Era",
+        "category": "Land & Property",
+        "title_en": "The Acquisition and Requisition of Immovable Property Act, 2017",
+        "title_bn": "স্থাবর সম্পত্তি অধিগ্রহণ ও হুকুমদখল আইন, ২০১৭"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "স্থাবর সম্পত্তি অধিগ্রহণ ও হুকুমদখল আইন, ২০১৭",
+        "official_index_year": "২০১৭",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1220.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 231,
+      "submitted": {
+        "year": 2017,
+        "era": "Bangladesh Era",
+        "category": "Aviation",
+        "title_en": "The Civil Aviation Act, 2017",
+        "title_bn": "বেসামরিক বিমান চলাচল আইন, ২০১৭"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "বেসামরিক বিমান চলাচল আইন, ২০১৭",
+        "official_index_year": "২০১৭",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1218.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 232,
+      "submitted": {
+        "year": 2018,
+        "era": "Bangladesh Era",
+        "category": "Transport & BRTA",
+        "title_en": "The Road Transport Act, 2018",
+        "title_bn": "সড়ক পরিবহন আইন, ২০১৮"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "সড়ক পরিবহণ আইন, ২০১৮",
+        "official_index_year": "২০১৮",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1262.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 233,
+      "submitted": {
+        "year": 2018,
+        "era": "Bangladesh Era",
+        "category": "Criminal Law",
+        "title_en": "The Narcotics Control Act, 2018",
+        "title_bn": "মাদকদ্রব্য নিয়ন্ত্রণ আইন, ২০১৮"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "মাদকদ্রব্য নিয়ন্ত্রণ আইন, ২০১৮",
+        "official_index_year": "২০১৮",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1276.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 234,
+      "submitted": {
+        "year": 2018,
+        "era": "Bangladesh Era",
+        "category": "Family & Criminal",
+        "title_en": "The Dowry Prohibition Act, 2018",
+        "title_bn": "যৌতুক নিরোধ আইন, ২০১৮"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "যৌতুক নিরোধ আইন, ২০১৮",
+        "official_index_year": "২০১৮",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1256.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 235,
+      "submitted": {
+        "year": 2018,
+        "era": "Bangladesh Era",
+        "category": "Administrative & Service",
+        "title_en": "The Public Service Act, 2018",
+        "title_bn": "সরকারি চাকরি আইন, ২০১৮"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "সরকারি চাকরি আইন, ২০১৮",
+        "official_index_year": "২০১৮",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1271.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 236,
+      "submitted": {
+        "year": 2018,
+        "era": "Bangladesh Era",
+        "category": "Energy & Power",
+        "title_en": "The Electricity Act, 2018",
+        "title_bn": "বিদ্যুৎ আইন, ২০১৮"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "বিদ্যুৎ আইন, ২০১৮",
+        "official_index_year": "২০১৮",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1228.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 237,
+      "submitted": {
+        "year": 2018,
+        "era": "Bangladesh Era",
+        "category": "Health",
+        "title_en": "The Mental Health Act, 2018",
+        "title_bn": "মানসিক স্বাস্থ্য আইন, ২০১৮"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "মানসিক স্বাস্থ্য আইন, ২০১৮",
+        "official_index_year": "২০১৮",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1273.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 238,
+      "submitted": {
+        "year": 2018,
+        "era": "Bangladesh Era",
+        "category": "Public Health",
+        "title_en": "The Infectious Diseases (Prevention, Control and Elimination) Act, 2018",
+        "title_bn": "সংক্রামক রোগ (প্রতিরোধ, নিয়ন্ত্রণ ও নির্মূল) আইন, ২০১৮"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "সংক্রামক রোগ (প্রতিরোধ, নিয়ন্ত্রণ ও নির্মূল) আইন, ২০১৮",
+        "official_index_year": "২০১৮",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1274.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 239,
+      "submitted": {
+        "year": 2018,
+        "era": "Bangladesh Era",
+        "category": "Commerce & Standards",
+        "title_en": "The Standards of Weights and Measures Act, 2018 (BSTI Act)",
+        "title_bn": "ওজন ও পরিমাপ মানদণ্ড আইন, ২০১৮"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "ওজন ও পরিমাপ মানদণ্ড আইন, ২০১৮",
+        "official_index_year": "২০১৮",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1270.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 240,
+      "submitted": {
+        "year": 2018,
+        "era": "Bangladesh Era",
+        "category": "Cyber & IT",
+        "title_en": "The Digital Security Act, 2018 (Replaced by Cyber Security Act, 2023)",
+        "title_bn": "ডিজিটাল নিরাপত্তা আইন, ২০১৮"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "ডিজিটাল নিরাপত্তা আইন, ২০১৮ [রহিত]",
+        "official_index_year": "২০১৮",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1261.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": true,
+        "note": null
+      }
+    },
+    {
+      "id": 241,
+      "submitted": {
+        "year": 2019,
+        "era": "Bangladesh Era",
+        "category": "Animal Welfare",
+        "title_en": "The Animal Welfare Act, 2019",
+        "title_bn": "প্রাণী কল্যাণ আইন, ২০১৯"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "প্রাণিকল্যাণ আইন, ২০১৯",
+        "official_index_year": "২০১৯",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1292.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 242,
+      "submitted": {
+        "year": 2019,
+        "era": "Bangladesh Era",
+        "category": "Environment",
+        "title_en": "The Brick Manufacturing and Brick Kilns Establishment (Control) (Amendment) Act, 2019",
+        "title_bn": "ইট প্রস্তুত ও ভাটা স্থাপন (নিয়ন্ত্রণ) (সংশোধন) আইন, ২০১৯"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "ইট প্রস্তুত ও ভাটা স্থাপন (নিয়ন্ত্রণ) (সংশোধন) আইন, ২০১৯",
+        "official_index_year": "২০১৯",
+        "official_source_url": "https://www.dpp.gov.bd/upload_file/gazettes/30608_15997.pdf",
+        "source_kind": "gazette",
+        "official_index_url": "https://www.dpp.gov.bd/bgpress/index.php/document/extraordinary_gazettes_monthly/2019-02-13",
+        "repeal_label_in_index": false,
+        "note": "This is an amending Act; the linked source is its official Gazette text."
+      }
+    },
+    {
+      "id": 243,
+      "submitted": {
+        "year": 2021,
+        "era": "Bangladesh Era",
+        "category": "Transport",
+        "title_en": "The Highways Act, 2021",
+        "title_bn": "মহাসড়ক আইন, ২০২১"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "মহাসড়ক আইন, ২০২১",
+        "official_index_year": "২০২১",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1393.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 244,
+      "submitted": {
+        "year": 2022,
+        "era": "Bangladesh Era",
+        "category": "Constitutional & Election",
+        "title_en": "The Chief Election Commissioner and Other Election Commissioners Appointment Act, 2022",
+        "title_bn": "প্রধান নির্বাচন কমিশনার এবং অন্যান্য নির্বাচন কমিশনার নিয়োগ আইন, ২০২২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "প্রধান নির্বাচন কমিশনার ও অন্যান্য নির্বাচন কমিশনার নিয়োগ আইন, ২০২২",
+        "official_index_year": "২০২২",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1397.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 245,
+      "submitted": {
+        "year": 2023,
+        "era": "Bangladesh Era",
+        "category": "Intellectual Property",
+        "title_en": "The Bangladesh Patent Act, 2023",
+        "title_bn": "বাংলাদেশ পেটেন্ট আইন, ২০২৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "বাংলাদেশ পেটেন্ট আইন, ২০২৩",
+        "official_index_year": "২০২৩",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1472.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 246,
+      "submitted": {
+        "year": 2023,
+        "era": "Bangladesh Era",
+        "category": "Revenue & Tax",
+        "title_en": "The Income Tax Act, 2023",
+        "title_bn": "আয়কর আইন, ২০২৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "আয়কর আইন, ২০২৩",
+        "official_index_year": "২০২৩",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1429.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 247,
+      "submitted": {
+        "year": 2023,
+        "era": "Bangladesh Era",
+        "category": "Land & Criminal",
+        "title_en": "The Land Crime Prevention and Redress Act, 2023",
+        "title_bn": "ভূমি অপরাধ প্রতিরোধ ও প্রতিকার আইন, ২০২৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "ভূমি অপরাধ প্রতিরোধ ও প্রতিকার আইন, ২০২৩",
+        "official_index_year": "২০২৩",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1454.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 248,
+      "submitted": {
+        "year": 2023,
+        "era": "Bangladesh Era",
+        "category": "Land & Property",
+        "title_en": "The Land Reform Act, 2023",
+        "title_bn": "ভূমি সংস্কার আইন, ২০২৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "ভূমি সংস্কার আইন, ২০২৩",
+        "official_index_year": "২০২৩",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1455.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 249,
+      "submitted": {
+        "year": 2023,
+        "era": "Bangladesh Era",
+        "category": "Family Law",
+        "title_en": "The Family Courts Act, 2023",
+        "title_bn": "পারিবারিক আদালত আইন, ২০২৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "পারিবারিক আদালত আইন, ২০২৩",
+        "official_index_year": "২০২৩",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1444.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 250,
+      "submitted": {
+        "year": 2023,
+        "era": "Bangladesh Era",
+        "category": "Intellectual Property",
+        "title_en": "The Copyright Act, 2023",
+        "title_bn": "কপিরাইট আইন, ২০২৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "কপিরাইট আইন, ২০২৩",
+        "official_index_year": "২০২৩",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1452.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 251,
+      "submitted": {
+        "year": 2023,
+        "era": "Bangladesh Era",
+        "category": "Revenue & Customs",
+        "title_en": "The Customs Act, 2023",
+        "title_bn": "কাস্টমস আইন, ২০২৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "কাস্টমস আইন, ২০২৩",
+        "official_index_year": "২০২৩",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1476.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 252,
+      "submitted": {
+        "year": 2023,
+        "era": "Bangladesh Era",
+        "category": "Health & Pharma",
+        "title_en": "The Drugs and Cosmetics Act, 2023",
+        "title_bn": "ঔষধ ও কসমেটিকস আইন, ২০২৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "ঔষধ ও কসমেটিকস্ আইন, ২০২৩",
+        "official_index_year": "২০২৩",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1447.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 253,
+      "submitted": {
+        "year": 2023,
+        "era": "Bangladesh Era",
+        "category": "Cyber & IT",
+        "title_en": "The Cyber Security Act, 2023",
+        "title_bn": "সাইবার নিরাপত্তা আইন, ২০২৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "সাইবার নিরাপত্তা আইন, ২০২৩ [রহিত]",
+        "official_index_year": "২০২৩",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1457.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": true,
+        "note": null
+      }
+    },
+    {
+      "id": 254,
+      "submitted": {
+        "year": 2022,
+        "era": "Bangladesh Era",
+        "category": "Commerce & Trade",
+        "title_en": "The Trade Organizations Act, 2022",
+        "title_bn": "বাণিজ্য সংগঠন আইন, ২০২২"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "বাণিজ্য সংগঠন আইন, ২০২২",
+        "official_index_year": "২০২২",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1405.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 255,
+      "submitted": {
+        "year": 2023,
+        "era": "Bangladesh Era",
+        "category": "Banking & Finance",
+        "title_en": "The Finance Company Act, 2023",
+        "title_bn": "ফাইন্যান্স কোম্পানি আইন, ২০২৩"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "ফাইন্যান্স কোম্পানি আইন, ২০২৩",
+        "official_index_year": "২০২৩",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-1478.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": false,
+        "note": null
+      }
+    },
+    {
+      "id": 256,
+      "submitted": {
+        "year": 2000,
+        "era": "Bangladesh Era",
+        "category": "Banking & Finance",
+        "title_en": "The Bank Deposit Insurance Act, 2000",
+        "title_bn": "ব্যাংক আমানত বীমা আইন, ২০০০"
+      },
+      "verification": {
+        "review_status": "official_source_found",
+        "official_title": "ব্যাংক আমানত বীমা আইন, ২০০০ [রহিত]",
+        "official_index_year": "২০০০",
+        "official_source_url": "https://bdlaws.minlaw.gov.bd/act-840.html",
+        "source_kind": "bdlaws",
+        "repeal_label_in_index": true,
+        "note": null
+      }
+    }
+  ]
+}
