@@ -11,7 +11,9 @@
       "British Era (1836-1947)",
       "Pakistan Era (1947-1971)",
       "Bangladesh Era (1972-Present)"
-    ]
+    ],
+    "reviewed_catalog_path": "data/laws-catalog.json",
+    "archive_note": "This file preserves the original submitted records. Per-record review findings and direct official links are in data/laws-catalog.json."
   },
   "laws": [
     {
